@@ -12,10 +12,4 @@ public class add_two_numbers {
         return null;
     }
 
-    public static void main(String[] args) {
-        ListNode l1 = new ListNode(2);
-        l1.next = new ListNode(4);
-        l1.next = new ListNode(3);
-        System.out.println();
-    }
 }
