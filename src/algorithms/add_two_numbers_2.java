@@ -2,7 +2,7 @@ package algorithms;
 
 
 
-public class add_two_numbers {
+public class add_two_numbers_2 {
     class ListNode{
         int val;
         ListNode next;
@@ -27,5 +27,5 @@ public class add_two_numbers {
         }
         return dummyHead.next;
     }
-    
+
 }
