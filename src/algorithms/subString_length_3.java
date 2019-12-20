@@ -32,5 +32,6 @@ public class subString_length_3 {
         System.out.println(lengthOfLongestSubstring("abcabcbb"));
         System.out.println(lengthOfLongestSubstring("pwwkew"));
         System.out.println(lengthOfLongestSubstring("bbbbb"));
+        System.out.println(lengthOfLongestSubstring(" "));
     }
 }
