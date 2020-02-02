@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03c781bf-43d7-4dd3-bfe9-dd1ea51c50e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/removeDup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/removeEle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,14 +29,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algorithms/removeDup.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+            <state relative-caret-position="184">
+              <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/removeEle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -62,6 +71,7 @@
         <option value="$PROJECT_DIR$/src/algorithms/add_two_numbers_2.java" />
         <option value="$PROJECT_DIR$/src/algorithms/subString_length_3.java" />
         <option value="$PROJECT_DIR$/src/algorithms/removeDup.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/removeEle.java" />
       </list>
     </option>
   </component>
@@ -128,7 +138,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.removeDup">
+  <component name="RunManager" selected="Application.removeEle">
     <configuration name="add_two_numbers_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.add_two_numbers_2" />
       <module name="leetcode" />
@@ -142,8 +152,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.ff" />
+    <configuration name="removeDup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.removeDup" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -155,8 +165,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="removeDup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.removeDup" />
+    <configuration name="removeEle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.removeEle" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -196,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.removeEle" />
         <item itemvalue="Application.removeDup" />
         <item itemvalue="Application.subString_length_3" />
         <item itemvalue="Application.add_two_numbers_2" />
         <item itemvalue="Application.two_sum_1" />
-        <item itemvalue="Application.ff" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +227,7 @@
       <workItem from="1576580876225" duration="11200000" />
       <workItem from="1576729658542" duration="4977000" />
       <workItem from="1576835163564" duration="2589000" />
-      <workItem from="1580628972630" duration="7083000" />
+      <workItem from="1580628972630" duration="10817000" />
     </task>
     <task id="LOCAL-00001" summary="try ok?">
       <created>1576729712890</created>
@@ -247,11 +257,18 @@
       <option name="project" value="LOCAL" />
       <updated>1576904968175</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="question 26">
+      <created>1580647052091</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1580647052091</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25849000" />
+    <option name="totallyTimeSpent" value="29583000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1519" height="977" extended-state="6" />
@@ -266,8 +283,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3289941" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3289941" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39881656" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -298,7 +315,8 @@
     <MESSAGE value="try ok?" />
     <MESSAGE value="question 2" />
     <MESSAGE value="question 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="question 3" />
+    <MESSAGE value="question 26" />
+    <option name="LAST_COMMIT_MESSAGE" value="question 26" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/algorithms/ff.java" />
@@ -328,11 +346,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithms/removeDup.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        <state relative-caret-position="184">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/removeEle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
         </state>
       </provider>
     </entry>
