@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03c781bf-43d7-4dd3-bfe9-dd1ea51c50e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/algorithms/removeDup.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/algorithms/two_sum_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/algorithms/two_sum_1.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +17,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algorithms/subString_length_3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
+            <state relative-caret-position="589">
               <caret line="34" column="54" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/removeDup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -49,6 +61,7 @@
         <option value="$PROJECT_DIR$/src/algorithms/add_two_numbers.java" />
         <option value="$PROJECT_DIR$/src/algorithms/add_two_numbers_2.java" />
         <option value="$PROJECT_DIR$/src/algorithms/subString_length_3.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/removeDup.java" />
       </list>
     </option>
   </component>
@@ -56,7 +69,7 @@
     <option name="x" value="282" />
     <option name="y" value="180" />
     <option name="width" value="1692" />
-    <option name="height" value="1085" />
+    <option name="height" value="1086" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -64,6 +77,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -86,8 +101,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -115,7 +128,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.subString_length_3">
+  <component name="RunManager" selected="Application.removeDup">
     <configuration name="add_two_numbers_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.add_two_numbers_2" />
       <module name="leetcode" />
@@ -131,6 +144,19 @@
     </configuration>
     <configuration name="ff" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.ff" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="removeDup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.removeDup" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -170,6 +196,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.removeDup" />
         <item itemvalue="Application.subString_length_3" />
         <item itemvalue="Application.add_two_numbers_2" />
         <item itemvalue="Application.two_sum_1" />
@@ -189,7 +216,8 @@
       <updated>1576580872855</updated>
       <workItem from="1576580876225" duration="11200000" />
       <workItem from="1576729658542" duration="4977000" />
-      <workItem from="1576835163564" duration="2540000" />
+      <workItem from="1576835163564" duration="2589000" />
+      <workItem from="1580628972630" duration="7083000" />
     </task>
     <task id="LOCAL-00001" summary="try ok?">
       <created>1576729712890</created>
@@ -212,17 +240,24 @@
       <option name="project" value="LOCAL" />
       <updated>1576835267263</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="question 3">
+      <created>1576904968175</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576904968175</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18717000" />
+    <option name="totallyTimeSpent" value="25849000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1519" height="977" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14442162" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14647502" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -283,8 +318,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithms/subString_length_3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
+        <state relative-caret-position="589">
           <caret line="34" column="54" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/removeDup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
