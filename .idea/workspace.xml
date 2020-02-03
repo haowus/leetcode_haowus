@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03c781bf-43d7-4dd3-bfe9-dd1ea51c50e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/removeEle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/maxSubsequent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/searchIn.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -41,11 +42,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/algorithms/removeEle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+            <state relative-caret-position="345">
+              <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/searchIn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/maxSubsequent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -72,6 +91,8 @@
         <option value="$PROJECT_DIR$/src/algorithms/subString_length_3.java" />
         <option value="$PROJECT_DIR$/src/algorithms/removeDup.java" />
         <option value="$PROJECT_DIR$/src/algorithms/removeEle.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/searchIn.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/maxSubsequent.java" />
       </list>
     </option>
   </component>
@@ -138,7 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.removeEle">
+  <component name="RunManager" selected="Application.searchIn">
     <configuration name="add_two_numbers_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.add_two_numbers_2" />
       <module name="leetcode" />
@@ -178,6 +199,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="searchIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.searchIn" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="subString_length_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algorithms.subString_length_3" />
       <module name="leetcode" />
@@ -191,26 +225,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="two_sum_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.two_sum_1" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.searchIn" />
         <item itemvalue="Application.removeEle" />
         <item itemvalue="Application.removeDup" />
         <item itemvalue="Application.subString_length_3" />
         <item itemvalue="Application.add_two_numbers_2" />
-        <item itemvalue="Application.two_sum_1" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +248,7 @@
       <workItem from="1576580876225" duration="11200000" />
       <workItem from="1576729658542" duration="4977000" />
       <workItem from="1576835163564" duration="2589000" />
-      <workItem from="1580628972630" duration="10817000" />
+      <workItem from="1580628972630" duration="14641000" />
     </task>
     <task id="LOCAL-00001" summary="try ok?">
       <created>1576729712890</created>
@@ -264,17 +285,24 @@
       <option name="project" value="LOCAL" />
       <updated>1580647052091</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="question 27">
+      <created>1580652266168</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1580652266168</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29583000" />
+    <option name="totallyTimeSpent" value="33407000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1519" height="977" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14647502" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14647502" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -284,7 +312,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3289941" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39881656" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39881656" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -316,7 +344,8 @@
     <MESSAGE value="question 2" />
     <MESSAGE value="question 3" />
     <MESSAGE value="question 26" />
-    <option name="LAST_COMMIT_MESSAGE" value="question 26" />
+    <MESSAGE value="question 27" />
+    <option name="LAST_COMMIT_MESSAGE" value="question 27" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/algorithms/ff.java" />
@@ -344,6 +373,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/removeEle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="40" lean-forward="true" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/algorithms/removeDup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
@@ -354,10 +390,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/removeEle.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/searchIn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        <state relative-caret-position="92">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/maxSubsequent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
