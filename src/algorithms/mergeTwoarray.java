@@ -1,7 +1,7 @@
 package algorithms;
 
 public class mergeTwoarray {
-
+//从后往前
     public static void merge(int[] nums1, int m, int[] nums2, int n) {
         // two get pointers for nums1 and nums2
         int p1 = m - 1;
