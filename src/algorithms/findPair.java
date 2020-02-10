@@ -8,7 +8,7 @@ import java.util.Set;
 public class findPair {
     public int findPairs(int[] nums, int k) {
 
-        
+
 
 
 
