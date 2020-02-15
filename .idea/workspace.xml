@@ -2,17 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03c781bf-43d7-4dd3-bfe9-dd1ea51c50e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/algorithms/cardGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/exchangeCandy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/flipImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/magicSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/maxDist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/monotonic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/sortbyParity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/sortbyParity_two.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/algorithms/transMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/array/easy/climbStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/array/easy/du_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/array/easy/findPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/array/easy/mergeTwoarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/array/easy/notDownseq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/string/easy/countSay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/string/easy/longestCP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/string/easy/romeToint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/string/easy/strStrr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/string/easy/validCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algorithms/string/test_se.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithms/testAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/testAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/algorithms/two_sum_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/YHtriangel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/YHtriangel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/add_two_numbers_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/add_two_numbers_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/cardGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/cardGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/centerIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/centerIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/containDup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/containDup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/dominantNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/dominantNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/du_array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/exchangeCandy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/exchangeCandy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/fibnacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/fibnacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/findMissing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/findMissing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/findPair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/flipImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/flipImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/flowerPlace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/flowerPlace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/imageSmooth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/imageSmooth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/largeGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/largeGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/magicSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/magicSquare.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/majorityEle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/majorityEle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/matrixResha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/matrixResha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/maxAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/maxAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/maxContione.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/maxContione.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/maxDist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/maxDist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/maxStockprofit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/maxStockprofit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/maxStockprofit_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/maxStockprofit_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/maxSubsequent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/maxSubsequent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/maxSubupsequent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/maxSubupsequent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/maxThreenumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/maxThreenumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/mergeTwoarray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/minUnsortSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/minUnsortSubarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/missNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/missNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/monotonic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/monotonic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/moveZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/moveZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/oneByte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/oneByte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/plusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/plusOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/removeDup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/removeDup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/removeEle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/removeEle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/rotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/rotateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/searchIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/searchIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/sortbyParity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/sortbyParity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/sortbyParity_two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/sortbyParity_two.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/subString_length_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/subString_length_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/testAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/testAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/third_Max.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/third_Max.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/toeplitzMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/toeplitzMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/transMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/transMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/twoSum_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/twoSum_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algorithms/two_sum_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algorithms/array/easy/two_sum_1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,28 +75,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/testAll.java">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/string/easy/romeToint.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/transMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/exchangeCandy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+            <state relative-caret-position="161">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,64 +87,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/monotonic.java">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/string/easy/longestCP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            <state relative-caret-position="253">
+              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/sortbyParity.java">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/string/easy/validCharacter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+            <state relative-caret-position="391">
+              <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/cardGroup.java">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/string/easy/strStrr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+            <state relative-caret-position="115">
+              <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/sortbyParity_two.java">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/string/easy/countSay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            <state relative-caret-position="471">
+              <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/containDup.java">
+        <entry file="file://$PROJECT_DIR$/src/algorithms/string/test_se.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="322">
-              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/dominantNum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="18" column="45" lean-forward="true" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algorithms/findPair.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -142,18 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/algorithms/ff.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/two_sum_1.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/add_two_numbers.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/add_two_numbers_2.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/subString_length_3.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/removeDup.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/removeEle.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/searchIn.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/maxSubsequent.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/plusOne.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/mergeTwoarray.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/YHtriangel.java" />
         <option value="$PROJECT_DIR$/src/algorithms/maxStockprofit.java" />
         <option value="$PROJECT_DIR$/src/algorithms/maxStockprofit_2.java" />
         <option value="$PROJECT_DIR$/src/algorithms/twoSum_2.java" />
@@ -167,7 +167,6 @@
         <option value="$PROJECT_DIR$/src/algorithms/findMissing.java" />
         <option value="$PROJECT_DIR$/src/algorithms/maxContione.java" />
         <option value="$PROJECT_DIR$/src/algorithms/fibnacci.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/findPair.java" />
         <option value="$PROJECT_DIR$/src/algorithms/matrixResha.java" />
         <option value="$PROJECT_DIR$/src/algorithms/minUnsortSubarray.java" />
         <option value="$PROJECT_DIR$/src/algorithms/flowerPlace.java" />
@@ -175,7 +174,6 @@
         <option value="$PROJECT_DIR$/src/algorithms/maxAverage.java" />
         <option value="$PROJECT_DIR$/src/algorithms/imageSmooth.java" />
         <option value="$PROJECT_DIR$/src/algorithms/maxSubupsequent.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/du_array.java" />
         <option value="$PROJECT_DIR$/src/algorithms/oneByte.java" />
         <option value="$PROJECT_DIR$/src/algorithms/centerIndex.java" />
         <option value="$PROJECT_DIR$/src/algorithms/dominantNum.java" />
@@ -188,11 +186,25 @@
         <option value="$PROJECT_DIR$/src/algorithms/transMatrix.java" />
         <option value="$PROJECT_DIR$/src/algorithms/exchangeCandy.java" />
         <option value="$PROJECT_DIR$/src/algorithms/monotonic.java" />
-        <option value="$PROJECT_DIR$/src/algorithms/testAll.java" />
         <option value="$PROJECT_DIR$/src/algorithms/sortbyParity.java" />
         <option value="$PROJECT_DIR$/src/algorithms/cardGroup.java" />
         <option value="$PROJECT_DIR$/src/algorithms/monotonic_two.java" />
         <option value="$PROJECT_DIR$/src/algorithms/sortbyParity_two.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/mergeTwoarray.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/findPair.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/notDownseq.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/testAll.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/du_array.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/climbStairs.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/array_easy/climbStairs.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/array/easy/findMissing.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/string/romeToint.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/string/longestCP.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/string/easy/longestCP.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/string/easy/validCharacter.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/string/test_se.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/string/easy/strStrr.java" />
+        <option value="$PROJECT_DIR$/src/algorithms/string/easy/countSay.java" />
       </list>
     </option>
   </component>
@@ -228,6 +240,21 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="leetcode_haowus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_haowus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="string" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_haowus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_haowus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="string" type="462c0819:PsiDirectoryNode" />
+              <item name="easy" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -259,13 +286,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.testAll">
+  <component name="RunManager" selected="Application.test_se">
     <configuration name="fibnacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.fibnacci" />
+      <option name="MAIN_CLASS_NAME" value="algorithms.array_easy.fibnacci" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithms.*" />
+          <option name="PATTERN" value="algorithms.array_easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,11 +301,11 @@
       </method>
     </configuration>
     <configuration name="matrixResha" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.matrixResha" />
+      <option name="MAIN_CLASS_NAME" value="algorithms.array_easy.matrixResha" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithms.*" />
+          <option name="PATTERN" value="algorithms.array_easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -287,11 +314,11 @@
       </method>
     </configuration>
     <configuration name="maxContione" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.maxContione" />
+      <option name="MAIN_CLASS_NAME" value="algorithms.array_easy.maxContione" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithms.*" />
+          <option name="PATTERN" value="algorithms.array_easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -300,11 +327,11 @@
       </method>
     </configuration>
     <configuration name="testAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.testAll" />
+      <option name="MAIN_CLASS_NAME" value="algorithms.array_easy.testAll" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithms.*" />
+          <option name="PATTERN" value="algorithms.array_easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,12 +339,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="third_Max" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algorithms.third_Max" />
+    <configuration name="test_se" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algorithms.string.test_se" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algorithms.*" />
+          <option name="PATTERN" value="algorithms.string.easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -327,11 +354,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test_se" />
         <item itemvalue="Application.testAll" />
         <item itemvalue="Application.matrixResha" />
         <item itemvalue="Application.fibnacci" />
         <item itemvalue="Application.maxContione" />
-        <item itemvalue="Application.third_Max" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +378,7 @@
       <workItem from="1580628972630" duration="25312000" />
       <workItem from="1580884583701" duration="32763000" />
       <workItem from="1581318528861" duration="22315000" />
-      <workItem from="1581490405337" duration="27736000" />
+      <workItem from="1581490405337" duration="47484000" />
     </task>
     <task id="LOCAL-00001" summary="try ok?">
       <created>1576729712890</created>
@@ -451,11 +478,18 @@
       <option name="project" value="LOCAL" />
       <updated>1581518713064</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="9">
+      <created>1581605294380</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1581605294380</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126892000" />
+    <option name="totallyTimeSpent" value="146640000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1519" height="977" extended-state="6" />
@@ -510,83 +544,23 @@
     <MESSAGE value="0" />
     <MESSAGE value="6" />
     <MESSAGE value="5" />
-    <option name="LAST_COMMIT_MESSAGE" value="5" />
+    <MESSAGE value="9" />
+    <option name="LAST_COMMIT_MESSAGE" value="9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algorithms/testAll.java</url>
-          <line>19</line>
+          <url>file://$PROJECT_DIR$/src/algorithms/array/easy/testAll.java</url>
+          <line>10</line>
           <properties />
-          <option name="timeStamp" value="5" />
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/algorithms/ff.java" />
-    <entry file="file://$PROJECT_DIR$/src/algorithms/twoSum_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/add_two_numbers_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-115">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/majorityEle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/maxStockprofit_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/mergeTwoarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/searchIn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/two_sum_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/YHtriangel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/containsDup_2.java" />
-    <entry file="file://$PROJECT_DIR$/src/algorithms/removeDup.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/removeDup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
@@ -596,7 +570,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/removeEle.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/removeEle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
@@ -614,24 +588,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/missNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/missNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/findMissing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/subString_length_3.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/subString_length_3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="736">
           <caret line="34" column="54" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
@@ -641,14 +605,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/moveZero.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/moveZero.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/maxContione.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/maxContione.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
@@ -658,28 +622,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/fibnacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/maxAverage.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/maxAverage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="6" column="16" lean-forward="true" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/flowerPlace.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/flowerPlace.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/minUnsortSubarray.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/minUnsortSubarray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
@@ -689,28 +646,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/imageSmooth.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/imageSmooth.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/maxSubupsequent.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/maxSubupsequent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/third_Max.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/third_Max.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/maxStockprofit.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/maxStockprofit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
@@ -720,49 +677,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/maxThreenumber.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/maxThreenumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/maxSubsequent.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/maxSubsequent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/matrixResha.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/matrixResha.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/rotateArray.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/rotateArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/toeplitzMatrix.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/toeplitzMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../../Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="655" column="16" selection-start-line="655" selection-start-column="16" selection-end-line="655" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/largeGroup.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/largeGroup.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
@@ -772,131 +722,236 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/centerIndex.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/plusOne.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/plusOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/du_array.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/flipImage.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/flipImage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/magicSquare.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/magicSquare.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/oneByte.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/oneByte.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
           <caret line="13" column="36" lean-forward="true" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/maxDist.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/maxDist.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="20" column="49" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/transMatrix.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/transMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
           <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/exchangeCandy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/testAll.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/containDup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/dominantNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="18" column="45" lean-forward="true" selection-start-line="18" selection-start-column="45" selection-end-line="18" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/findPair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/cardGroup.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/monotonic.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/monotonic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="12" column="9" lean-forward="true" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/sortbyParity.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/sortbyParity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algorithms/sortbyParity_two.java">
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/mergeTwoarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/sortbyParity_two.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
           <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/findPair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/notDownseq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Java/jdk1.8.0_191/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="585" column="14" selection-start-line="585" selection-start-column="14" selection-end-line="585" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/testAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/add_two_numbers_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/cardGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/centerIndex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/climbStairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/containDup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/dominantNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/findMissing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/fibnacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/exchangeCandy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/array/easy/du_array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/string/easy/romeToint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29164">
+          <caret line="1432" column="19" selection-start-line="1432" selection-start-column="19" selection-end-line="1432" selection-end-column="19" />
+          <folding>
+            <element signature="e#55800#55801#0" expanded="true" />
+            <element signature="e#55844#55845#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/string/easy/longestCP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/string/easy/validCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/string/test_se.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/string/easy/strStrr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algorithms/string/easy/countSay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
         </state>
       </provider>
     </entry>
