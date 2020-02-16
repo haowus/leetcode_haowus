@@ -1,5 +1,6 @@
-package algorithms.string;
+package algorithms.string.easy;
 
+import algorithms.string.easy.binaryCompute;
 import algorithms.string.easy.longestCP;
 import algorithms.string.easy.validCharacter;
 
@@ -12,6 +13,13 @@ public class test_se {
 //        validCharacter validCharacter = new validCharacter();
 //        String s = "(){]}[";
 //        System.out.println(validCharacter.isValid(s));
-        System.out.println("".toCharArray()[0]);
+//        System.out.println("".toCharArray()[0]);
+//        binaryCompute binaryCompute = new binaryCompute();
+//        String a = "1010";
+//        String b = "1011";
+//        System.out.println(binaryCompute.addBinary(a,b));
+        reverseVo reverseVo = new reverseVo();
+        String s = "hello";
+        System.out.println(reverseVo.reverseVowels(s));
     }
 }
