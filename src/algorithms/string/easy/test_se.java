@@ -18,8 +18,14 @@ public class test_se {
 //        String a = "1010";
 //        String b = "1011";
 //        System.out.println(binaryCompute.addBinary(a,b));
-        reverseVo reverseVo = new reverseVo();
-        String s = "hello";
-        System.out.println(reverseVo.reverseVowels(s));
+//        reverseVo reverseVo = new reverseVo();
+//        String s = "hello";
+//        System.out.println(reverseVo.reverseVowels(s));
+//        System.out.println('2'+'5');
+//        System.out.println(103/3+" "+103%3);
+        compressStr compressStr = new compressStr();
+        char[] s = new char[]{'a','a','b','b','c','c','c'};
+        System.out.println(compressStr.compress(s));
+
     }
 }
