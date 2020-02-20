@@ -37,10 +37,18 @@ public class test_se {
 //        palindrome pd = new palindrome();
 //        String s = "abcba";
 //        pd.validPalindrome(s);
-        usualWord uw = new usualWord();
-        String paragraph = "Bob hit a ball,..    the hit BALL flew far after it was hit.";
-        String[] banned = new String[]{"hit"};
-        System.out.println(uw.mostCommonWord(paragraph,banned));
+//        usualWord uw = new usualWord();
+//        String paragraph = "Bob hit a ball,..    the hit BALL flew far after it was hit.";
+//        String[] banned = new String[]{"hit"};
+//        System.out.println(uw.mostCommonWord(paragraph,banned));
+//        exchangeStr es = new exchangeStr();
+//        System.out.println(es.buddyStrings("aaaaaaabc","aaaaaaacb"));
+//        reverseOL ro = new reverseOL();
+//        String s = "Czyr^";
+//        System.out.println(ro.reverseOnlyLetters(s));
+        uniqEmail ue = new uniqEmail();
+        String[] emails = new String[]{"test.emailalex@leetcode.com","test.e.mailbob.cathy@leetcode.com","testemail+david@lee.tcode.com"};
+        System.out.println(ue.numUniqueEmails(emails));
 
     }
 }
