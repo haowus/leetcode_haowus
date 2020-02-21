@@ -5,7 +5,22 @@ import java.util.Map;
 public class binaryCompute {
     public String addBinary(String a, String b) {
 
-        return Integer.toBinaryString(Integer.parseInt(a, 2) + Integer.parseInt(b, 2));
-        //radix:表明前面的数是什么进制;
+        if(a == null || a.length() == 0) return b;
+        if(b == null || b.length() == 0) return a;
+
+        StringBuilder stb = new StringBuilder();
+        int i = a.length() - 1;
+        int j = b.length() - 1;
+
+        int c = 0;  // 进位
+        while(i >= 0 || j >= 0) {
+            if(i >= 0) c += a.charAt(i --) - '0';
+            if(j >= 0) c += b.charAt(j --) - '0';
+            stb.append(c % 2);
+            c >>= 1;    //右移1位
+        }
+
+        String res = stb.reverse().toString();
+        return c > 0 ? '1' + res : res;
     }
 }

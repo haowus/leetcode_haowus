@@ -46,9 +46,19 @@ public class test_se {
 //        reverseOL ro = new reverseOL();
 //        String s = "Czyr^";
 //        System.out.println(ro.reverseOnlyLetters(s));
-        uniqEmail ue = new uniqEmail();
-        String[] emails = new String[]{"test.emailalex@leetcode.com","test.e.mailbob.cathy@leetcode.com","testemail+david@lee.tcode.com"};
-        System.out.println(ue.numUniqueEmails(emails));
+//        uniqEmail ue = new uniqEmail();
+//        String[] emails = new String[]{"test.emailalex@leetcode.com","test.e.mailbob.cathy@leetcode.com","testemail+david@lee.tcode.com"};
+//        System.out.println(ue.numUniqueEmails(emails));
+//        System.out.println(2>>1);
+//        System.out.println(1>>1);
+//        System.out.println(8>>1);
+//        palindromeOr po = new palindromeOr();
+//        System.out.println(po.isPalindrome("race a car"));
+//        logSort ls = new logSort();
+//        String[] s = new String[]{"a1 9 2 3 1","g1 act car","zo4 4 7","ab1 off key dog","a8 act zoo"};
+//        System.out.println(ls.reorderLogFiles(s));
+        repeatstrMatch rm = new repeatstrMatch();
+        System.out.println(rm.repeatedStringMatch("abcd", "cdabcdab"));
 
     }
 }
