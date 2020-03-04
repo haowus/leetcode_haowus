@@ -2,6 +2,7 @@ package algorithms.tree;
 
 
 import algorithms.tree.easy.depth;
+import algorithms.tree.easy.orderTree;
 
 import java.util.Deque;
 import java.util.LinkedList;
@@ -52,9 +53,11 @@ public class ConstructTree {
     }
 
     public static void main(String[] args) {
-        Integer[] nums = {1,2};
+        Integer[] nums = {3,9,20,null,null,15,7};
         TreeNode root = ConstructTree.constructTree(nums);
-        depth depth = new depth();
-        System.out.println(depth.maxDepth(root));
+//        depth depth = new depth();
+//        System.out.println(depth.maxDepth(root));
+        orderTree oT = new orderTree();
+        System.out.println(oT.levelOrderBottom(root));
     }
 }
