@@ -3,6 +3,8 @@ package algorithms.string.easy;
 public class addString {
     public String addStrings(String num1, String num2) {
 
+        StringBuffer sb = new StringBuffer();
+
         StringBuilder sB = new StringBuilder();
         int carry=0;
         int len1=num1.length()-1,len2=num2.length()-1;
