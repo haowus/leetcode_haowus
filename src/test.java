@@ -1,12 +1,20 @@
 import javax.management.Query;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
-import java.util.Collections;
+import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-class test {
-    public static void main(String[] args) throws Exception {
+//class test {
+//    public static void main(String[] args) throws Exception {
+//        int n = -1;
+//        int count = 0;
+//        while(n!=0){
+//            count += (n&1);  //按位与
+//            n>>>=1;
+//        }
+//        System.out.println(count);;
+
 //        String str = "成都市(成华区)(武侯区)(高新区)";
 //        Pattern p = Pattern.compile(".*?(?=\\()");
 //        Matcher m = p.matcher(str);
@@ -31,26 +39,72 @@ class test {
 //        Method m = s.getClass().getMethod("toUpperCase");
 //
 //        System.out.println(m.invoke(s));
-        Integer a = new Integer(2);
-        Integer b = new Integer(2);
-        String s1 = new String();
-        String s2 = "123";
-        System.out.println(a.hashCode());
-        System.out.println(b.hashCode());
-        System.out.println(a.equals(b));
-        System.out.println(a==b);
+//        Integer a = new Integer(2);
+//        Integer b = new Integer(2);
+//        String s1 = new String();
+//        String s2 = "123";
+//        System.out.println(a.hashCode());
+//        System.out.println(b.hashCode());
+//        System.out.println(a.equals(b));
+//        System.out.println(a==b);
+//        Vector vector = new Vector();
+//        for (int i=0;i<10;i++)
+//            vector.add(i);
+//
+//        System.out.println(vector);
+//        Collection coll = new ArrayList();
+//        coll.add("aaa");
+//        coll.add(1);
+//        coll.add('c');
+//        coll.add("ddd");
+//        System.out.println(coll);
+//        Iterator it = coll.iterator();
+//        while (it.hasNext()) {
+//            System.out.println(it.next());
+//            it.remove();
+//        }
+//        System.out.println(coll);
 
 
+
+
+//    }
+//    public static String translate (String str) {
+//        String tempStr = "";
+//        try {
+//            tempStr = new String(str.getBytes("ISO-8859-1"),"GBK");
+//            tempStr = tempStr.trim();
+//        }
+//        catch (Exception e) {
+//            System.err.println(e.getMessage());
+//        }
+//        return tempStr;
+
+//    }
+
+
+//}
+class Cache<T> {
+    T value;
+
+    public T getValue() {
+        return value;
     }
-    public static String translate (String str) {
-        String tempStr = "";
-        try {
-            tempStr = new String(str.getBytes("ISO-8859-1"),"GBK");
-            tempStr = tempStr.trim();
-        }
-        catch (Exception e) {
-            System.err.println(e.getMessage());
-        }
-        return tempStr;
+
+    public void setValue(T value) {
+        this.value = value;
     }
+
+}
+
+class test{
+    public static void main(String[] args) {
+        Cache<String> cache = new Cache<String>();
+        cache.setValue("123");
+        String s = cache.getValue();
+        System.out.println(s);
+
+    }
+
+
 }
