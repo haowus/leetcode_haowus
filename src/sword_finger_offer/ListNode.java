@@ -1,6 +1,6 @@
 package sword_finger_offer;
 
-public class ListNode {
+class ListNode {
     int val;
     ListNode next = null;
     ListNode(int val) {

@@ -99,11 +99,16 @@ class Cache<T> {
 
 class test{
     public static void main(String[] args) {
-        Cache<String> cache = new Cache<String>();
-        cache.setValue("123");
-        String s = cache.getValue();
-        System.out.println(s);
-
+        Integer s1 = 1;
+        Integer s2 = 1;
+        Integer l1 = new Integer(1);
+        Integer l2 = new Integer(1);
+        System.out.println(s1.hashCode()+" "+s2.hashCode());
+        System.out.println(s1.equals(s2));
+        System.out.println(s1==s2);
+        System.out.println(l1.hashCode()+" "+l2.hashCode());
+        System.out.println(l1.equals(l2));
+        System.out.println(l1==l2);
     }
 
 
