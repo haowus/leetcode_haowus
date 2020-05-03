@@ -2,25 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03c781bf-43d7-4dd3-bfe9-dd1ea51c50e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/experience/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/experience/Thread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortingAlgorithm/bubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortingAlgorithm/countSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortingAlgorithm/heapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortingAlgorithm/insertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortingAlgorithm/mergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortingAlgorithm/quickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortingAlgorithm/radixSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortingAlgorithm/selectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sortingAlgorithm/shellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_finger_offer/maxsum_subarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_finger_offer/minNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_finger_offer/notrepeatFirst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sword_finger_offer/uglyNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hwTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_finger_offer/TreeLinkNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_finger_offer/add_bitmani.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_finger_offer/binarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_finger_offer/continuous_pack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_finger_offer/deleteDupNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_finger_offer/entryNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_finger_offer/firstCommonNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_finger_offer/getNode_next.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_finger_offer/inversePair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_finger_offer/kidsGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_finger_offer/match.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_finger_offer/mutiplyArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_finger_offer/onlyAppearOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_finger_offer/rol_n.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_finger_offer/rotateWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_finger_offer/sumNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_finger_offer/sumSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sword_finger_offer/treeMaxDepth.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/experience/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/experience/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sword_finger_offer/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sword_finger_offer/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sword_finger_offer/notrepeatFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sword_finger_offer/notrepeatFirst.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -36,32 +38,62 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sortingAlgorithm/heapSort.java">
+        <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/match.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-58">
-              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+            <state relative-caret-position="115">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/ListNode.java">
+        <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/entryNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="253">
+              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/deleteDupNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="457">
+              <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/TreeLinkNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
               <folding>
-                <element signature="e#107#108#0" expanded="true" />
-                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#218#219#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/fibonacci.java">
+        <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/getNode_next.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="237">
+              <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="170" column="44" lean-forward="true" selection-start-line="170" selection-start-column="44" selection-end-line="170" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -86,25 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/concurrent/yxxy/c_005/T.java" />
-        <option value="$PROJECT_DIR$/src/concurrent/yxxy/c_019/MyContainer4.java" />
-        <option value="$PROJECT_DIR$/src/concurrent/yxxy/c_025/T03_SynchronizedList.java" />
-        <option value="$PROJECT_DIR$/src/concurrent/yxxy/c_020/ReentrantLock4.java" />
-        <option value="$PROJECT_DIR$/src/concurrent/yxxy/c_026/T03_Callable.java" />
-        <option value="$PROJECT_DIR$/src/concurrent/yxxy/c_019/MyContainer3.java" />
-        <option value="$PROJECT_DIR$/src/concurrent/yxxy/c_025/T09_SynchronusQueue.java" />
-        <option value="$PROJECT_DIR$/src/concurrent/yxxy/c_020/ReentrantLock1.java" />
-        <option value="$PROJECT_DIR$/src/concurrent/yxxy/c_026/T10_ScheduledPool.java" />
-        <option value="$PROJECT_DIR$/src/concurrent/yxxy/c_024/TicketSeller3.java" />
-        <option value="$PROJECT_DIR$/src/concurrent/yxxy/c_026/T05_ThreadPool.java" />
-        <option value="$PROJECT_DIR$/src/concurrent/yxxy/c_022/ThreadLocal1.java" />
-        <option value="$PROJECT_DIR$/src/concurrent/yxxy/c_009/T.java" />
-        <option value="$PROJECT_DIR$/src/concurrent/yxxy/c_026/T13_ThreadPoolExecutor.java" />
-        <option value="$PROJECT_DIR$/src/concurrent/yxxy/c_024/TicketSeller2.java" />
-        <option value="$PROJECT_DIR$/src/concurrent/yxxy/c_010/T.java" />
-        <option value="$PROJECT_DIR$/src/concurrent/yxxy/c_013/T.java" />
-        <option value="$PROJECT_DIR$/src/concurrent/yxxy/c_025/T01_ConcurrentMap.java" />
-        <option value="$PROJECT_DIR$/src/concurrent/yxxy/c_024/TicketSeller4.java" />
         <option value="$PROJECT_DIR$/src/concurrent/yxxy/c_020/ReentrantLock5.java" />
         <option value="$PROJECT_DIR$/src/concurrent/yxxy/c_012/T.java" />
         <option value="$PROJECT_DIR$/src/concurrent/yxxy/c_020/ReentrantLock2.java" />
@@ -130,20 +143,39 @@
         <option value="$PROJECT_DIR$/src/sortingAlgorithm/quickSort.java" />
         <option value="$PROJECT_DIR$/src/sortingAlgorithm/mergeSort.java" />
         <option value="$PROJECT_DIR$/src/sortingAlgorithm/shellSort.java" />
-        <option value="$PROJECT_DIR$/src/sword_finger_offer/notrepeatFirst.java" />
         <option value="$PROJECT_DIR$/src/sortingAlgorithm/radixSort.java" />
-        <option value="$PROJECT_DIR$/src/test.java" />
         <option value="$PROJECT_DIR$/src/sword_finger_offer/convertBST.java" />
         <option value="$PROJECT_DIR$/src/sortingAlgorithm/countSort.java" />
         <option value="$PROJECT_DIR$/src/sortingAlgorithm/heapSort.java" />
         <option value="$PROJECT_DIR$/src/sword_finger_offer/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/hwTest.java" />
+        <option value="$PROJECT_DIR$/src/sword_finger_offer/notrepeatFirst.java" />
+        <option value="$PROJECT_DIR$/src/sword_finger_offer/inversePair.java" />
+        <option value="$PROJECT_DIR$/src/sword_finger_offer/firstCommonNode.java" />
+        <option value="$PROJECT_DIR$/src/sword_finger_offer/binarySearch.java" />
+        <option value="$PROJECT_DIR$/src/sword_finger_offer/treeMaxDepth.java" />
+        <option value="$PROJECT_DIR$/src/sword_finger_offer/onlyAppearOne.java" />
+        <option value="$PROJECT_DIR$/src/sword_finger_offer/sumSequence.java" />
+        <option value="$PROJECT_DIR$/src/sword_finger_offer/sumNumber.java" />
+        <option value="$PROJECT_DIR$/src/sword_finger_offer/rol_n.java" />
+        <option value="$PROJECT_DIR$/src/sword_finger_offer/rotateWord.java" />
+        <option value="$PROJECT_DIR$/src/sword_finger_offer/continuous_pack.java" />
+        <option value="$PROJECT_DIR$/src/sword_finger_offer/kidsGame.java" />
+        <option value="$PROJECT_DIR$/src/sword_finger_offer/add_bitmani.java" />
+        <option value="$PROJECT_DIR$/src/sword_finger_offer/mutiplyArray.java" />
+        <option value="$PROJECT_DIR$/src/sword_finger_offer/match.java" />
+        <option value="$PROJECT_DIR$/src/test.java" />
+        <option value="$PROJECT_DIR$/src/sword_finger_offer/entryNode.java" />
+        <option value="$PROJECT_DIR$/src/sword_finger_offer/deleteDupNode.java" />
+        <option value="$PROJECT_DIR$/src/sword_finger_offer/TreeLinkNode.java" />
+        <option value="$PROJECT_DIR$/src/sword_finger_offer/getNode_next.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="834" />
-    <option name="y" value="573" />
-    <option name="width" value="1128" />
+    <option name="x" value="198" />
+    <option name="y" value="-14" />
+    <option name="width" value="1335" />
     <option name="height" value="870" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -152,8 +184,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,16 +202,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="sword_finger_offer" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="leetcode_haowus" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_haowus" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -210,13 +236,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="countSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sortingAlgorithm.countSort" />
+  <component name="RunManager" selected="Application.mutiplyArray">
+    <configuration name="add_bitmani" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sword_finger_offer.add_bitmani" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sortingAlgorithm.*" />
+          <option name="PATTERN" value="sword_finger_offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -224,12 +250,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="heapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sortingAlgorithm.heapSort" />
+    <configuration name="kidsGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sword_finger_offer.kidsGame" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sortingAlgorithm.*" />
+          <option name="PATTERN" value="sword_finger_offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -237,12 +263,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sortingAlgorithm.quickSort" />
+    <configuration name="mutiplyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sword_finger_offer.mutiplyArray" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sortingAlgorithm.*" />
+          <option name="PATTERN" value="sword_finger_offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,12 +276,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="radixSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sortingAlgorithm.radixSort" />
+    <configuration name="rotateWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sword_finger_offer.rotateWord" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sortingAlgorithm.*" />
+          <option name="PATTERN" value="sword_finger_offer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,11 +298,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mutiplyArray" />
         <item itemvalue="Application.test" />
-        <item itemvalue="Application.heapSort" />
-        <item itemvalue="Application.radixSort" />
-        <item itemvalue="Application.countSort" />
-        <item itemvalue="Application.quickSort" />
+        <item itemvalue="Application.add_bitmani" />
+        <item itemvalue="Application.kidsGame" />
+        <item itemvalue="Application.rotateWord" />
       </list>
     </recent_temporary>
   </component>
@@ -305,6 +331,7 @@
       <workItem from="1585744003522" duration="72576000" />
       <workItem from="1587023756967" duration="673000" />
       <workItem from="1587102387796" duration="39764000" />
+      <workItem from="1588000443796" duration="46449000" />
     </task>
     <task id="LOCAL-00001" summary="try ok?">
       <created>1576729712890</created>
@@ -495,16 +522,24 @@
       <option name="project" value="LOCAL" />
       <updated>1586672173741</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="1">
+      <created>1588000459670</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1588000459670</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="380858000" />
+    <option name="totallyTimeSpent" value="427307000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1519" height="977" extended-state="6" />
+    <frame x="618" y="151" width="890" height="580" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18548939" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1826923" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -513,8 +548,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289941" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27455622" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.37751478" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20118344" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6004464" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -582,170 +617,16 @@
           <properties />
           <option name="timeStamp" value="26" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sword_finger_offer/mutiplyArray.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/concurrent/yxxy/c_025/T07_DelayQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrent/yxxy/c_025/T08_TransferQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrent/yxxy/c_025/T09_SynchronusQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrent/yxxy/c_026/T01_MyExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrent/yxxy/c_026/T02_ExecutorService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrent/yxxy/c_026/T03_Callable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrent/yxxy/c_026/T04_Executors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrent/yxxy/c_026/T05_ThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrent/yxxy/c_026/T06_Future.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrent/yxxy/c_026/T07_ParallelComputing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrent/yxxy/c_026/T08_CachedPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrent/yxxy/c_026/T09_SingleThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrent/yxxy/c_026/T10_ScheduledPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrent/yxxy/c_026/T11_WorkStealingPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrent/yxxy/c_026/T12_ForkJoinPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrent/yxxy/c_026/T13_ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrent/yxxy/c_026/T14_ParallelStreamAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrent/yxxy/c_002/T.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/concurrent/yxxy/c_025/T03_SynchronizedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/experience/B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/experience/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2185">
-          <caret line="152" column="13" selection-start-line="152" selection-start-column="13" selection-end-line="152" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/experience/wh.java" />
     <entry file="file://$PROJECT_DIR$/src/jvm_mashibing.java" />
     <entry file="file://$PROJECT_DIR$/src/concurrent/yxxy/c_021/MyContainer1.java">
@@ -836,13 +717,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sortingAlgorithm/mergeSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sortingAlgorithm/insertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -871,24 +745,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/notrepeatFirst.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sortingAlgorithm/radixSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="379">
           <caret line="37" column="51" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="110" column="33" selection-start-line="110" selection-start-column="33" selection-end-line="110" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -927,17 +787,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sortingAlgorithm/heapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-58">
-          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#107#108#0" expanded="true" />
             <element signature="e#137#138#0" expanded="true" />
@@ -949,6 +802,204 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sortingAlgorithm/heapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/notrepeatFirst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sortingAlgorithm/mergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="41" column="20" lean-forward="true" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/inversePair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="83" column="38" lean-forward="true" selection-start-line="83" selection-start-column="38" selection-end-line="83" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/firstCommonNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-65">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/treeMaxDepth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/binarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/onlyAppearOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="49" lean-forward="true" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/sumSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/sumNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hwTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1438#1439#0" expanded="true" />
+            <element signature="e#1480#1481#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="2420" column="20" selection-start-line="2420" selection-start-column="20" selection-end-line="2420" selection-end-column="20" />
+          <folding>
+            <element signature="e#94598#94599#0" expanded="true" />
+            <element signature="e#94636#94637#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/rol_n.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/rotateWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/continuous_pack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="61" selection-start-line="7" selection-start-column="61" selection-end-line="7" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="431" column="13" selection-start-line="431" selection-start-column="13" selection-end-line="431" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/kidsGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/add_bitmani.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../Java/jdk1.8.0_191/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="782" column="29" selection-start-line="782" selection-start-column="29" selection-end-line="782" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/mutiplyArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="170" column="44" lean-forward="true" selection-start-line="170" selection-start-column="44" selection-end-line="170" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/match.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/entryNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/deleteDupNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/TreeLinkNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#218#219#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sword_finger_offer/getNode_next.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
         </state>
       </provider>
     </entry>

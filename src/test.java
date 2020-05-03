@@ -84,32 +84,127 @@ import java.util.regex.Pattern;
 
 
 //}
-class Cache<T> {
-    T value;
+//class Cache<T> {
+//    T value;
+//
+//    public T getValue() {
+//        return value;
+//    }
+//
+//    public void setValue(T value) {
+//        this.value = value;
+//    }
+//
+//}
+//
+//class test{
+//    public static void main(String[] args) {
+//        Integer s1 = 1;
+//        Integer s2 = 1;
+//        Integer l1 = new Integer(1);
+//        Integer l2 = new Integer(1);
+//        System.out.println(s1.hashCode()+" "+s2.hashCode());
+//        System.out.println(s1.equals(s2));
+//        System.out.println(s1==s2);
+//        System.out.println(l1.hashCode()+" "+l2.hashCode());
+//        System.out.println(l1.equals(l2));
+//        System.out.println(l1==l2);
+//    }
+//
+//
+//}
+//public class test{
+//
+//    private static Object resource1 = new Object();
+//    private static Object resource2 = new Object();
+//
+//    public static void main(String[] args) {
+//
+//        new Thread(() -> {
+//            synchronized (resource1){
+//                System.out.println(Thread.currentThread()+ "get resource1");
+//                try {
+//                    Thread.sleep(1000);
+//                } catch (InterruptedException e) {
+//                    e.printStackTrace();
+//                }
+//                System.out.println(Thread.currentThread()+"waiting get resource2");
+//                synchronized (resource2){
+//                    System.out.println(Thread.currentThread()+"get resorce2");
+//                }
+//            }
+//        },"线程1").start();
+//
+//        new Thread(() ->{
+//            synchronized (resource2){
+//                System.out.println(Thread.currentThread()+ "get resource2");
+//                try {
+//                    Thread.sleep(1000);
+//                } catch (InterruptedException e) {
+//                    e.printStackTrace();
+//                }
+//                System.out.println(Thread.currentThread()+"waiting get resource1");
+//                synchronized (resource1){
+//                    System.out.println(Thread.currentThread()+"get resorce1");
+//                }
+//            }
+//        },"线程2").start();
+//    }
 
-    public T getValue() {
-        return value;
+//}
+public class test{
+    private int[] charArr = new int[128];
+    Queue<Character> queue = new LinkedList<>();
+    public void Insert(char ch)
+    {
+        charArr[ch]++;
+        queue.add(ch);
+
     }
-
-    public void setValue(T value) {
-        this.value = value;
+    //return the first appearence once char in current stringstream
+    public char FirstAppearingOnce(){
+        while(!queue.isEmpty()&&charArr[queue.peek()]>1){
+            queue.poll();
+        }
+        return queue.isEmpty()?'#':queue.peek();
     }
-
-}
-
-class test{
     public static void main(String[] args) {
-        Integer s1 = 1;
-        Integer s2 = 1;
-        Integer l1 = new Integer(1);
-        Integer l2 = new Integer(1);
-        System.out.println(s1.hashCode()+" "+s2.hashCode());
-        System.out.println(s1.equals(s2));
-        System.out.println(s1==s2);
-        System.out.println(l1.hashCode()+" "+l2.hashCode());
-        System.out.println(l1.equals(l2));
-        System.out.println(l1==l2);
+//        ArrayList<Integer> res = new ArrayList<>();
+//        int sum = 100;
+//        int begin = 1;
+//        while (sum >0){
+//            res.add(begin);
+//            sum -= begin;
+//            begin++;
+//        }
+//        System.out.println(res);
+//        System.out.println(new StringBuffer("I am a student.").reverse().toString());
+
+//        System.out.println(100>>1);
+//        Integer.valueOf("834r83+");
+//        test t = new test();
+//        t.duplicate(new int[]{2,4,2,1,4},5,new int[]{0,0,0,0,0});
+
     }
+    public boolean duplicate(int numbers[],int length,int [] duplication) {
 
-
+        if(numbers == null || numbers.length<1){
+            duplication[0] = -1;
+            return false;
+        }
+        boolean flag = false;
+        int[] room = new int[length];
+        Arrays.fill(room,0);
+        for(int i=0;i<length;i++){
+            int num = numbers[i];
+            if(room[num]==0)
+                room[num]++;
+            else{
+                flag = true;
+                duplication[0] = num;
+                break;
+            }
+        }
+        return flag;
+    }
 }
