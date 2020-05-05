@@ -21,6 +21,7 @@ public class orderTree {
             int count = queue.size();
             for (int i = 0; i < count; i++) {
                 TreeNode node = queue.poll();     //删除并返回队列queue的第一个元素
+                assert node != null;
                 oneLevel.add(node.val);
                 if (node.left != null)
                     queue.add(node.left);

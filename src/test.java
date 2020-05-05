@@ -1,10 +1,4 @@
-import javax.management.Query;
-import java.lang.reflect.InvocationTargetException;
-import java.lang.reflect.Method;
-import java.util.*;
-import java.util.concurrent.ConcurrentHashMap;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
+
 //class test {
 //    public static void main(String[] args) throws Exception {
 //        int n = -1;
@@ -151,25 +145,55 @@ import java.util.regex.Pattern;
 //        },"线程2").start();
 //    }
 
+import java.util.ArrayList;
+import java.util.Collections;
+
 //}
 public class test{
-    private int[] charArr = new int[128];
-    Queue<Character> queue = new LinkedList<>();
-    public void Insert(char ch)
-    {
-        charArr[ch]++;
-        queue.add(ch);
-
+//    private int[] charArr = new int[128];
+//    Queue<Character> queue = new LinkedList<>();
+//    public void Insert(char ch)
+//    {
+//        charArr[ch]++;
+//        queue.add(ch);
+//
+//    }
+//    //return the first appearence once char in current stringstream
+//    public char FirstAppearingOnce(){
+//        while(!queue.isEmpty()&&charArr[queue.peek()]>1){
+//            queue.poll();
+//        }
+//        return queue.isEmpty()?'#':queue.peek();
+//    }
+    private ArrayList<Integer> res = new ArrayList<>();
+    public void Insert(Integer num) {
+        res.add(num);
     }
-    //return the first appearence once char in current stringstream
-    public char FirstAppearingOnce(){
-        while(!queue.isEmpty()&&charArr[queue.peek()]>1){
-            queue.poll();
-        }
-        return queue.isEmpty()?'#':queue.peek();
+
+    public Double GetMedian() {
+        Collections.sort(res);
+        double med;
+        if(res.size()/2==0)
+            med = (double)(res.get(res.size()/2)+res.get(res.size()/2+1))/2;
+        else
+            med = (double)res.get(res.size()/2);
+        return med;
     }
     public static void main(String[] args) {
-//        ArrayList<Integer> res = new ArrayList<>();
+        ArrayList<Integer> res = new ArrayList<>();
+        res.add(1);
+        res.add(4);
+        res.add(3);
+        Collections.sort(res);
+        System.out.println(res);
+
+        int med=0;
+        if(res.size()/2==0)
+            med = (res.get(res.size()/2)+res.get(res.size()/2+1))/2;
+        else
+            med = res.get(res.size()/2);
+
+        System.out.println(med);
 //        int sum = 100;
 //        int begin = 1;
 //        while (sum >0){
@@ -186,25 +210,25 @@ public class test{
 //        t.duplicate(new int[]{2,4,2,1,4},5,new int[]{0,0,0,0,0});
 
     }
-    public boolean duplicate(int numbers[],int length,int [] duplication) {
-
-        if(numbers == null || numbers.length<1){
-            duplication[0] = -1;
-            return false;
-        }
-        boolean flag = false;
-        int[] room = new int[length];
-        Arrays.fill(room,0);
-        for(int i=0;i<length;i++){
-            int num = numbers[i];
-            if(room[num]==0)
-                room[num]++;
-            else{
-                flag = true;
-                duplication[0] = num;
-                break;
-            }
-        }
-        return flag;
-    }
+//    public boolean duplicate(int numbers[],int length,int [] duplication) {
+//
+//        if(numbers == null || numbers.length<1){
+//            duplication[0] = -1;
+//            return false;
+//        }
+//        boolean flag = false;
+//        int[] room = new int[length];
+//        Arrays.fill(room,0);
+//        for(int i=0;i<length;i++){
+//            int num = numbers[i];
+//            if(room[num]==0)
+//                room[num]++;
+//            else{
+//                flag = true;
+//                duplication[0] = num;
+//                break;
+//            }
+//        }
+//        return flag;
+//    }
 }
