@@ -10,27 +10,32 @@ public class subString_length_3 {
         int num = 1;
         LinkedList numlist = new LinkedList();
         LinkedList charlist = new LinkedList();
-        while (curr<s.length()-1){
-            char p = s.charAt(curr) , q=s.charAt(curr+1);
-            charlist.add(p);
-            if(!charlist.contains(q)){
-                num++;
-                curr++;
-            }
+        if(!s.equals("")){
+            while (curr<s.length()-1){
+                char p = s.charAt(curr) , q=s.charAt(curr+1);
+                charlist.add(p);
+                if(!charlist.contains(q)){
+                    num++;
+                    curr++;
+                }
 
-            else{
-                numlist.add(num);
-                num=1;
-                curr++;
-            }
+                else{
+                    numlist.add(num);
+                    num=1;
+                    curr++;
+                }
 
-        }
-        return (int) Collections.max(numlist);
+            }
+            return (int) Collections.max(numlist);
+        }else
+            return 0;
+
     }
 
     public static void main(String[] args) {
         System.out.println(lengthOfLongestSubstring("abcabcbb"));
         System.out.println(lengthOfLongestSubstring("pwwkew"));
         System.out.println(lengthOfLongestSubstring("bbbbb"));
+        System.out.println(lengthOfLongestSubstring(" 1"));
     }
 }
