@@ -7,5 +7,27 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../aliyun_java_sdk_3.8.0/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../aliyun_java_sdk_3.8.0/lib" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/../aliyun_java_sdk_3.8.0/lib" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../aliyun_java_sdk_3.8.0/lib" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../aliyun_java_sdk_3.8.0/aliyun-sdk-oss-3.8.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
