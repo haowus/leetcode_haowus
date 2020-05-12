@@ -180,20 +180,20 @@ public class test{
         return med;
     }
     public static void main(String[] args) {
-        ArrayList<Integer> res = new ArrayList<>();
-        res.add(1);
-        res.add(4);
-        res.add(3);
-        Collections.sort(res);
-        System.out.println(res);
+//        ArrayList<Integer> res = new ArrayList<>();
+//        res.add(1);
+//        res.add(4);
+//        res.add(3);
+//        Collections.sort(res);
+//        System.out.println(res);
+//
+//        int med=0;
+//        if(res.size()/2==0)
+//            med = (res.get(res.size()/2)+res.get(res.size()/2+1))/2;
+//        else
+//            med = res.get(res.size()/2);
 
-        int med=0;
-        if(res.size()/2==0)
-            med = (res.get(res.size()/2)+res.get(res.size()/2+1))/2;
-        else
-            med = res.get(res.size()/2);
-
-        System.out.println(med);
+        System.out.println((double) 7/2);
 //        int sum = 100;
 //        int begin = 1;
 //        while (sum >0){
