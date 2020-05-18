@@ -193,7 +193,7 @@ public class test{
 //        else
 //            med = res.get(res.size()/2);
 
-        System.out.println(8>>3);
+        System.out.println('8'-'3');
 //        int sum = 100;
 //        int begin = 1;
 //        while (sum >0){
