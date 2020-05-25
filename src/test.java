@@ -147,6 +147,7 @@
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.concurrent.Callable;
 
 //}
 public class test{
@@ -165,20 +166,20 @@ public class test{
 //        }
 //        return queue.isEmpty()?'#':queue.peek();
 //    }
-    private ArrayList<Integer> res = new ArrayList<>();
-    public void Insert(Integer num) {
-        res.add(num);
-    }
-
-    public Double GetMedian() {
-        Collections.sort(res);
-        double med;
-        if(res.size()/2==0)
-            med = (double)(res.get(res.size()/2)+res.get(res.size()/2+1))/2;
-        else
-            med = (double)res.get(res.size()/2);
-        return med;
-    }
+//    private ArrayList<Integer> res = new ArrayList<>();
+//    public void Insert(Integer num) {
+//        res.add(num);
+//    }
+//
+//    public Double GetMedian() {
+//        Collections.sort(res);
+//        double med;
+//        if(res.size()/2==0)
+//            med = (double)(res.get(res.size()/2)+res.get(res.size()/2+1))/2;
+//        else
+//            med = (double)res.get(res.size()/2);
+//        return med;
+//    }
     public static void main(String[] args) {
 //        ArrayList<Integer> res = new ArrayList<>();
 //        res.add(1);
@@ -193,7 +194,9 @@ public class test{
 //        else
 //            med = res.get(res.size()/2);
 
-        System.out.println('8'-'3');
+//        System.out.println('8'-'3');
+
+
 //        int sum = 100;
 //        int begin = 1;
 //        while (sum >0){
@@ -209,7 +212,18 @@ public class test{
 //        test t = new test();
 //        t.duplicate(new int[]{2,4,2,1,4},5,new int[]{0,0,0,0,0});
 
+//        //实例化继承了Thread的类
+//        th1 t1 = new th1("thread1");
+//        //启动调用实例对象的start()方法，启动线程
+//        t1.start();
+
+//        //将实现Runable接口的类，传入Thread构造器中。
+//        Thread thread = new Thread(new th2());
+//        //调用Thread实例对象的start()方法
+//        thread.start();
+
     }
+
 //    public boolean duplicate(int numbers[],int length,int [] duplication) {
 //
 //        if(numbers == null || numbers.length<1){
@@ -231,4 +245,43 @@ public class test{
 //        }
 //        return flag;
 //    }
+}
+//class th1 extends Thread{
+//    private String name;
+//
+//    public th1() {
+//
+//    }
+//
+//    public th1(String name){
+//        this.name = name;
+//    }
+//
+//    @Override
+//    public void run() {
+//        Thread.currentThread().setName("haowu");
+//        System.out.println("this is haowu first try implement thread:" + name);
+//        System.out.println(Thread.currentThread().getName());
+//    }
+//}
+
+
+//定义一个类，并实现Runable接口，实现run方法
+//class th2 implements Runnable{
+//    @Override
+//    public void run() {
+//        for (int i=0;i<100;i++){
+//            System.out.println(Thread.currentThread()+"--->"+i);
+//        }
+//    }
+//}
+
+class th3 implements Callable {
+    @Override
+    public Object call() throws Exception {
+        for (int i=0;i<100;i++){
+            System.out.println(Thread.currentThread()+"--->"+i);
+        }
+        return null;
+    }
 }
