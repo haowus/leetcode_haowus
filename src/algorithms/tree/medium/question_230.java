@@ -22,7 +22,10 @@ public class question_230 {
 
         inorder(root.left,k);
         count++;
-        if (count==k) res = root.val;
+        if (count==k) {
+            res = root.val;
+            return;
+        }
         inorder(root.right,k);
     }
 }
