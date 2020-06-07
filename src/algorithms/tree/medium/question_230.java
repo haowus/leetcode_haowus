@@ -2,8 +2,7 @@ package algorithms.tree.medium;
 
 import algorithms.tree.TreeNode;
 
-import java.util.ArrayList;
-import java.util.List;
+
 
 /**
  * @author haowus919@gmail.com
