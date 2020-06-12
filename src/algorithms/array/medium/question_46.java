@@ -26,8 +26,8 @@ public class question_46 {
 
         for (int i=0;i<nums.length;i++){
             if (!list.contains(nums[i]))
-                list.add(nums[i]);
-
+                continue;
+            list.add(nums[i]);
             track(nums,list);
             list.removeLast();
         }
