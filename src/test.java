@@ -221,8 +221,22 @@ public class test{
 //        Thread thread = new Thread(new th2());
 //        //调用Thread实例对象的start()方法
 //        thread.start();
+//        System.out.println(isReachNode(35,38));
 
     }
+//    private static int isReachNode(int x,int y){
+//        int all = 0;
+//        String[] s_x = String.valueOf(x).split("");
+//        String[] s_y = String.valueOf(y).split("");
+//
+//        for (int i = 0;i<s_x.length;i++)
+//            all += Integer.valueOf(s_x[i]);
+//        for (int i = 0;i<s_y.length;i++)
+//            all += Integer.valueOf(s_y[i]);
+//
+//        return all;
+//
+//    }
 
 //    public boolean duplicate(int numbers[],int length,int [] duplication) {
 //
@@ -276,12 +290,12 @@ public class test{
 //    }
 //}
 
-class th3 implements Callable {
-    @Override
-    public Object call() throws Exception {
-        for (int i=0;i<100;i++){
-            System.out.println(Thread.currentThread()+"--->"+i);
-        }
-        return null;
-    }
-}
+//class th3 implements Callable {
+//    @Override
+//    public Object call() throws Exception {
+//        for (int i=0;i<100;i++){
+//            System.out.println(Thread.currentThread()+"--->"+i);
+//        }
+//        return null;
+//    }
+//}
