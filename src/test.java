@@ -145,10 +145,6 @@
 //        },"线程2").start();
 //    }
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.concurrent.Callable;
-
 //}
 public class test{
 //    private int[] charArr = new int[128];
@@ -181,6 +177,7 @@ public class test{
 //        return med;
 //    }
     public static void main(String[] args) {
+//        System.out.println(4.6-7/2+2.3+7%2);
 //        ArrayList<Integer> res = new ArrayList<>();
 //        res.add(1);
 //        res.add(4);

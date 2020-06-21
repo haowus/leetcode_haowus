@@ -17,7 +17,7 @@ public class IQ_33 {
             if (postorder[i]>root) return false;
             while (!stack.empty() && postorder[i]<stack.peek())
                 root=stack.pop();
-             stack.push(postorder[i]);
+            stack.push(postorder[i]);
         }
         return true;
     }
