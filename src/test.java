@@ -145,6 +145,11 @@
 //        },"线程2").start();
 //    }
 
+import java.io.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.concurrent.Callable;
+
 //}
 public class test{
 //    private int[] charArr = new int[128];
@@ -177,8 +182,46 @@ public class test{
 //        return med;
 //    }
     public static void main(String[] args) {
-//        System.out.println(4.6-7/2+2.3+7%2);
-//        ArrayList<Integer> res = new ArrayList<>();
+
+        String s1 = new String("a");
+        String s2 = new String("a");
+
+        System.out.println(s1==s2);
+//        System.out.println(123);
+//        String path = "D:\\Program Files\\JetBrains Projects\\PycharmProjects\\helloworld\\dataming\\knn_target.txt";
+//        BufferedReader reader = new BufferedReader(new InputStreamReader( new FileInputStream(path), "UTF-8"));
+//        String line = null;
+//        reader.readLine();
+//        while ((line = reader.readLine()) != null) {
+//            double d = Double.valueOf(line);
+//            System.out.println((d/10));
+//            double d = 0.533333333;
+//            System.out.println(d);
+//            if(d>=0 && d<0.1)
+//                System.out.println(0.0);
+//            else if (d>=0.1 && d<0.2)
+//                System.out.println(0.1);
+//            else if (d>=0.2 && d<0.3)
+//                System.out.println(0.2);
+//            else if (d>=0.3 && d<0.4)
+//                System.out.println(0.3);
+//            else if (d>=0.4 && d<0.5)
+//                System.out.println(0.4);
+//            else if (d>=0.5 && d<0.6)
+//                System.out.println(0.5);
+//            else if (d>=0.6 && d<0.7)
+//                System.out.println(0.6);
+//            else if (d>=0.7 && d<0.8)
+//                System.out.println(0.7);
+//            else if (d>=0.8 && d<0.9)
+//                System.out.println(0.8);
+//            else if (d>=0.9 && d<1.0)
+//                System.out.println(0.9);
+//            else
+//                System.out.println("chucuo");
+//        }
+//        reader.close();
+    //        ArrayList<Integer> res = new ArrayList<>();
 //        res.add(1);
 //        res.add(4);
 //        res.add(3);
