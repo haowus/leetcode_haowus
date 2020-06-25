@@ -181,14 +181,20 @@ public class test{
 //            med = (double)res.get(res.size()/2);
 //        return med;
 //    }
-    public static void main(String[] args) throws IOException {
-        String path = "D:\\Program Files\\JetBrains Projects\\PycharmProjects\\helloworld\\dataming\\knn_target.txt";
-        BufferedReader reader = new BufferedReader(new InputStreamReader( new FileInputStream(path), "UTF-8"));
-        String line = null;
-        reader.readLine();
-        while ((line = reader.readLine()) != null) {
-            double d = Double.valueOf(line);
-            System.out.println((d/10));
+    public static void main(String[] args) {
+
+        String s1 = new String("a");
+        String s2 = new String("a");
+
+        System.out.println(s1==s2);
+//        System.out.println(123);
+//        String path = "D:\\Program Files\\JetBrains Projects\\PycharmProjects\\helloworld\\dataming\\knn_target.txt";
+//        BufferedReader reader = new BufferedReader(new InputStreamReader( new FileInputStream(path), "UTF-8"));
+//        String line = null;
+//        reader.readLine();
+//        while ((line = reader.readLine()) != null) {
+//            double d = Double.valueOf(line);
+//            System.out.println((d/10));
 //            double d = 0.533333333;
 //            System.out.println(d);
 //            if(d>=0 && d<0.1)
@@ -213,8 +219,8 @@ public class test{
 //                System.out.println(0.9);
 //            else
 //                System.out.println("chucuo");
-        }
-        reader.close();
+//        }
+//        reader.close();
     //        ArrayList<Integer> res = new ArrayList<>();
 //        res.add(1);
 //        res.add(4);
