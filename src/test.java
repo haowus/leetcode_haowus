@@ -145,11 +145,6 @@
 //        },"线程2").start();
 //    }
 
-import java.io.*;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.concurrent.Callable;
-
 //}
 public class test{
 //    private int[] charArr = new int[128];
@@ -183,10 +178,13 @@ public class test{
 //    }
     public static void main(String[] args) {
 
-        String s1 = new String("a");
-        String s2 = new String("a");
-
-        System.out.println(s1==s2);
+//        String s1 = new String("a");
+//        String s2 = new String("a");
+//
+//        System.out.println(s1==s2);
+        System.out.println(7/2.0);
+        System.out.println(7/2);
+        System.out.println((float) (7/2));
 //        System.out.println(123);
 //        String path = "D:\\Program Files\\JetBrains Projects\\PycharmProjects\\helloworld\\dataming\\knn_target.txt";
 //        BufferedReader reader = new BufferedReader(new InputStreamReader( new FileInputStream(path), "UTF-8"));
