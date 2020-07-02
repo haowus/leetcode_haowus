@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03c781bf-43d7-4dd3-bfe9-dd1ea51c50e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode_sf_offer/IQ_45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode_sf_offer/IQ_46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode_sf_offer/IQ_47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode_sf_offer/IQ_48.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,11 +56,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode_sf_offer/IQ_47.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="20" column="40" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="20" selection-end-column="40" />
+            <state relative-caret-position="250">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode_sf_offer/IQ_48.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -89,7 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/top_interview_question/question_17.java" />
         <option value="$PROJECT_DIR$/src/top_interview_question/question_36.java" />
         <option value="$PROJECT_DIR$/src/top_interview_question/question_41.java" />
         <option value="$PROJECT_DIR$/src/top_interview_question/question_42.java" />
@@ -140,6 +148,7 @@
         <option value="$PROJECT_DIR$/src/test.java" />
         <option value="$PROJECT_DIR$/src/leetcode_sf_offer/IQ_46.java" />
         <option value="$PROJECT_DIR$/src/leetcode_sf_offer/IQ_47.java" />
+        <option value="$PROJECT_DIR$/src/leetcode_sf_offer/IQ_48.java" />
       </list>
     </option>
   </component>
@@ -312,14 +321,7 @@
       <workItem from="1589261678381" duration="1600000" />
       <workItem from="1589804711674" duration="54523000" />
       <workItem from="1591883097639" duration="599000" />
-      <workItem from="1592203566146" duration="69206000" />
-    </task>
-    <task id="LOCAL-00002" summary="question 2">
-      <created>1576730778450</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1576730778450</updated>
+      <workItem from="1592203566146" duration="73916000" />
     </task>
     <task id="LOCAL-00003" summary="question 3">
       <created>1576835267263</created>
@@ -657,15 +659,21 @@
       <option name="project" value="LOCAL" />
       <updated>1593528748666</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="1">
+      <created>1593613814927</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1593613814927</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="631726000" />
+    <option name="totallyTimeSpent" value="636436000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14072494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -761,13 +769,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/sortingAlgorithm/countSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sortingAlgorithm/heapSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -1143,8 +1144,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode_sf_offer/IQ_47.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="40" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="20" selection-end-column="40" />
+        <state relative-caret-position="250">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode_sf_offer/IQ_48.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
