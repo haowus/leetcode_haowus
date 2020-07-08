@@ -181,13 +181,15 @@ public class test{
 //        System.out.println("25".compareTo("10"));
 //        System.out.println("aac".compareTo("aad"));
 
-        String str1 = new StringBuilder("计算机").append("软件").toString();
-        System.out.println(str1.intern() == str1);
-        String str2 = new StringBuilder("la").append("va").toString();
-        System.out.println(str2.intern() == str2);
-        String str3 = new StringBuilder("12").append("3").toString();
-        System.out.println(str3.intern() == str3);
-
+//        String str1 = new StringBuilder("计算机").append("软件").toString();
+//        System.out.println(str1.intern() == str1);
+//        String str2 = new StringBuilder("la").append("va").toString();
+//        System.out.println(str2.intern() == str2);
+//        String str3 = new StringBuilder("12").append("3").toString();
+//        System.out.println(str3.intern() == str3);
+        System.out.println(4^5^4^1^5^2);
+        System.out.println(4&4);
+        System.out.println(3&1);
 //        String s1 = new String("a");
 //        String s2 = new String("a");
 //
