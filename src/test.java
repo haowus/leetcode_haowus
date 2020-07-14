@@ -187,9 +187,10 @@ public class test{
 //        System.out.println(str2.intern() == str2);
 //        String str3 = new StringBuilder("12").append("3").toString();
 //        System.out.println(str3.intern() == str3);
-        System.out.println(4^5^4^1^5^2);
-        System.out.println(4&4);
-        System.out.println(3&1);
+//        System.out.println(4^5^4^1^5^2);
+//        System.out.println(4&4);
+//        System.out.println(3&1);
+        System.out.println(Integer.MIN_VALUE);
 //        String s1 = new String("a");
 //        String s2 = new String("a");
 //
