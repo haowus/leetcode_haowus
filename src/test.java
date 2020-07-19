@@ -178,6 +178,11 @@ public class test{
 //    }
     public static void main(String[] args) {
 
+        int ans = 7;
+        int now =8;
+        ans = ans|now;
+        System.out.println(ans);
+
 //        System.out.println("25".compareTo("10"));
 //        System.out.println("aac".compareTo("aad"));
 
@@ -190,7 +195,7 @@ public class test{
 //        System.out.println(4^5^4^1^5^2);
 //        System.out.println(4&4);
 //        System.out.println(3&1);
-        System.out.println(Integer.MIN_VALUE);
+//        System.out.println(Integer.MIN_VALUE);
 //        String s1 = new String("a");
 //        String s2 = new String("a");
 //
