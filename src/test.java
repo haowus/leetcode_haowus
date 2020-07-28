@@ -146,8 +146,6 @@
 //    }
 
 import java.util.concurrent.CountDownLatch;
-import java.util.concurrent.locks.Condition;
-import java.util.concurrent.locks.ReentrantLock;
 
 //}
 public class test{
@@ -186,13 +184,8 @@ public class test{
 //        int now =8;
 //        ans = ans|now;
 //        System.out.println(ans);
-        ReentrantLock rl = new ReentrantLock();
-        rl.lock();
-        CountDownLatch cdl = new CountDownLatch(3);
-        cdl.countDown();
-        Condition c = rl.newCondition();
-        
-
+//        CountDownLatch cdl = new CountDownLatch(9);
+//        cdl.countDown();
 
 
 //        System.out.println("25".compareTo("10"));
