@@ -12,13 +12,13 @@ public class Test {
     private boolean isTrue = false;
     byte[] b = new byte[1024*100];
     public static void main(String[] args) throws InterruptedException {
-        String s = "wuhao";
-        int hashcode = s.hashCode();
-        System.out.println(hashcode);  //113487608   110110000111010111011111000
-        int hash = hashcode ^ (hashcode >>>16);
-        System.out.println(hash);    //1731    11011000011
-        int slot = hash & (16-1);
-        System.out.println(slot);   //3   0011
+//        String s = "wuhao";
+//        int hashcode = s.hashCode();
+//        System.out.println(hashcode);  //113487608   110110000111010111011111000
+//        int hash = hashcode ^ (hashcode >>>16);
+//        System.out.println(hash);    //1731    11011000011
+//        int slot = hash & (16-1);
+//        System.out.println(slot);   //3   0011
 
     }
 }
