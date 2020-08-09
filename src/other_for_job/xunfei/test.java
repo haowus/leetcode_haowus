@@ -1,4 +1,4 @@
-package xunfei;
+package other_for_job.xunfei;
 
 /**
  * @Author haowus919@gmail.com in dormitory

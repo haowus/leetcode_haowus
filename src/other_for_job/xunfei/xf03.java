@@ -1,4 +1,4 @@
-package xunfei;
+package other_for_job.xunfei;
 
 import java.util.Scanner;
 
