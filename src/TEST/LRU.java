@@ -1,4 +1,4 @@
-package other_for_job;
+package TEST;
 
 import java.util.HashMap;
 import java.util.Iterator;
