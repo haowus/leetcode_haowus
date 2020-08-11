@@ -42,25 +42,26 @@ public class Test {
 //
 //        System.out.println(s1+"--"+s2+"--"+cls);
 
-        InvocationHandler handler = new InvocationHandler() {
-            @Override
-            public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
+//        InvocationHandler handler = new InvocationHandler() {
+//            @Override
+//            public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
+//
+//                System.out.println(method);
+//                if (method.getName().equals("morning")){
+//                    System.out.println("good morning, "+args[0]);
+//                }
+//                return null;
+//            }
+//        };
+//
+//        //创建接口实例
+//        Hello hello = (Hello) Proxy.newProxyInstance(
+//                Hello.class.getClassLoader(),
+//                new Class[]{Hello.class},
+//                handler
+//        );
+//        hello.morning("bob");
 
-                System.out.println(method);
-                if (method.getName().equals("morning")){
-                    System.out.println("good morning, "+args[0]);
-                }
-                return null;
-            }
-        };
-
-        //创建接口实例
-        Hello hello = (Hello) Proxy.newProxyInstance(
-                Hello.class.getClassLoader(),
-                new Class[]{Hello.class},
-                handler
-        );
-        hello.morning("bob");
 
 
     }
