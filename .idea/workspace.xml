@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03c781bf-43d7-4dd3-bfe9-dd1ea51c50e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/other_for_job/DJ/dj01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other_for_job/DJ/dj02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other_for_job/DJ/dj03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other_for_job/conch/conch01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other_for_job/conch/conch02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other_for_job/conch/conch03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other_for_job/conch/conch04.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,19 +27,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/other_for_job/DJ/dj02.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/other_for_job/conch/conch01.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="133" lean-forward="true" selection-start-line="133" selection-end-line="133" />
+            <state relative-caret-position="322">
+              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/other_for_job/conch/conch03.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/other_for_job/conch/conch02.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/other_for_job/conch/conch04.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="56" selection-start-line="56" selection-end-line="56" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2687#2688#0" expanded="true" />
-                <element signature="e#2715#2716#0" expanded="true" />
-                <element signature="e#2819#2820#0" expanded="true" />
-                <element signature="e#2849#2850#0" expanded="true" />
-                <element signature="e#2957#2958#0" expanded="true" />
-                <element signature="e#2983#2984#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,10 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/TEST/threadTest01.java" />
-        <option value="$PROJECT_DIR$/src/leetcode_sf_offer/IQ_52.java" />
-        <option value="$PROJECT_DIR$/src/TEST/ThreadPool.java" />
-        <option value="$PROJECT_DIR$/src/TEST/DefaultThreadPool.java" />
         <option value="$PROJECT_DIR$/src/TEST/SimpleHttpServer.java" />
         <option value="$PROJECT_DIR$/src/leetcode_sf_offer/IQ_53_I.java" />
         <option value="$PROJECT_DIR$/src/leetcode_sf_offer/IQ_53_II.java" />
@@ -100,7 +119,6 @@
         <option value="$PROJECT_DIR$/src/leetcode_sf_offer/IQ_05.java" />
         <option value="$PROJECT_DIR$/src/leetcode_sf_offer/IQ_06.java" />
         <option value="$PROJECT_DIR$/src/leetcode_sf_offer/IQ_07.java" />
-        <option value="$PROJECT_DIR$/src/test.java" />
         <option value="$PROJECT_DIR$/src/TEST/xunfei20_01.java" />
         <option value="$PROJECT_DIR$/src/xunfei/xf03.java" />
         <option value="$PROJECT_DIR$/src/xunfei/xf01.java" />
@@ -120,6 +138,11 @@
         <option value="$PROJECT_DIR$/src/other_for_job/DJ/dj00.java" />
         <option value="$PROJECT_DIR$/src/other_for_job/DJ/dj03.java" />
         <option value="$PROJECT_DIR$/src/other_for_job/DJ/dj02.java" />
+        <option value="$PROJECT_DIR$/src/test.java" />
+        <option value="$PROJECT_DIR$/src/other_for_job/conch/conch01.java" />
+        <option value="$PROJECT_DIR$/src/other_for_job/conch/conch04.java" />
+        <option value="$PROJECT_DIR$/src/other_for_job/conch/conch02.java" />
+        <option value="$PROJECT_DIR$/src/other_for_job/conch/conch03.java" />
       </list>
     </option>
   </component>
@@ -130,10 +153,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="78" />
-    <option name="y" value="30" />
+    <option name="x" value="154" />
+    <option name="y" value="-29" />
     <option name="width" value="2100" />
-    <option name="height" value="1386" />
+    <option name="height" value="1383" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -158,6 +181,13 @@
               <item name="leetcode_haowus" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="other_for_job" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_haowus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_haowus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="other_for_job" type="462c0819:PsiDirectoryNode" />
+              <item name="conch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -212,13 +242,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.dj02">
-    <configuration name="dj02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other_for_job.DJ.dj02" />
+  <component name="RunManager" selected="Application.conch03">
+    <configuration name="conch01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other_for_job.conch.conch01" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other_for_job.DJ.*" />
+          <option name="PATTERN" value="other_for_job.conch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -226,12 +256,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dj03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other_for_job.DJ.dj03" />
+    <configuration name="conch02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other_for_job.conch.conch02" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other_for_job.DJ.*" />
+          <option name="PATTERN" value="other_for_job.conch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,12 +269,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ne01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other_for_job.NetEase.ne01" />
+    <configuration name="conch03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other_for_job.conch.conch03" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other_for_job.NetEase.*" />
+          <option name="PATTERN" value="other_for_job.conch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -252,12 +282,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ne02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other_for_job.NetEase.ne02" />
+    <configuration name="conch04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other_for_job.conch.conch04" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other_for_job.NetEase.*" />
+          <option name="PATTERN" value="other_for_job.conch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,26 +295,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ne03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other_for_job.NetEase.ne03" />
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
       <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="other_for_job.NetEase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.dj02" />
-        <item itemvalue="Application.dj03" />
-        <item itemvalue="Application.ne03" />
-        <item itemvalue="Application.ne02" />
-        <item itemvalue="Application.ne01" />
+        <item itemvalue="Application.conch03" />
+        <item itemvalue="Application.conch02" />
+        <item itemvalue="Application.conch04" />
+        <item itemvalue="Application.conch01" />
+        <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
   </component>
@@ -345,14 +369,7 @@
       <workItem from="1595075846970" duration="5018000" />
       <workItem from="1595302016350" duration="7744000" />
       <workItem from="1595904043089" duration="11231000" />
-      <workItem from="1596784869557" duration="49365000" />
-    </task>
-    <task id="LOCAL-00023" summary="0">
-      <created>1582448537748</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1582448537748</updated>
+      <workItem from="1596784869557" duration="64702000" />
     </task>
     <task id="LOCAL-00024" summary="2">
       <created>1582977039489</created>
@@ -690,7 +707,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596984254964</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="1">
+      <created>1597078063949</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1597078063949</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -726,7 +750,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="771897000" />
+    <option name="totallyTimeSpent" value="787234000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -738,10 +762,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1519" height="977" extended-state="7" />
+    <frame x="-7" y="-7" width="1519" height="977" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17043121" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.120465435" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -751,7 +775,7 @@
       <window_info anchor="bottom" id="Duplicates" weight="0.3289941" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289941" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989733" visible="true" weight="0.37988165" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4989733" visible="true" weight="0.2994083" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.46508875" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -844,38 +868,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode_sf_offer/IQ_59_I.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode_sf_offer/IQ_59_II.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="e#299#300#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode_sf_offer/IQ_60.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/experience/招银提前批/电话面试.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/experience/恒生电子/视频面.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -1166,13 +1158,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-506">
-          <caret line="155" column="24" lean-forward="true" selection-start-line="155" selection-start-column="24" selection-end-line="155" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/TEST/LRU.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -1244,6 +1229,65 @@
             <element signature="e#2957#2958#0" expanded="true" />
             <element signature="e#2983#2984#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="453" column="9" selection-start-line="453" selection-start-column="9" selection-end-line="453" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#10953#0" expanded="true" />
+            <element signature="e#4395#4396#0" expanded="true" />
+            <element signature="e#4421#4422#0" expanded="true" />
+            <element signature="e#4456#4457#0" expanded="true" />
+            <element signature="e#4486#4487#0" expanded="true" />
+            <element signature="e#4370#4371#0" expanded="true" />
+            <element signature="e#4406#4407#0" expanded="true" />
+            <element signature="e#4467#4468#0" expanded="true" />
+            <element signature="e#4485#4486#0" expanded="true" />
+            <element signature="e#4489#4490#0" expanded="true" />
+            <element signature="e#4525#4526#0" expanded="true" />
+            <element signature="e#12044#12045#0" expanded="true" />
+            <element signature="e#12067#12068#0" expanded="true" />
+            <element signature="e#12194#12195#0" expanded="true" />
+            <element signature="e#12235#12236#0" expanded="true" />
+            <element signature="e#12417#12418#0" expanded="true" />
+            <element signature="e#12458#12459#0" expanded="true" />
+            <element signature="e#12566#12567#0" expanded="true" />
+            <element signature="e#12607#12608#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other_for_job/conch/conch01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other_for_job/conch/conch04.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other_for_job/conch/conch02.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/other_for_job/conch/conch03.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="68" column="8" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
         </state>
       </provider>
     </entry>

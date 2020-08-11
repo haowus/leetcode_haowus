@@ -145,10 +145,55 @@
 //        },"线程2").start();
 //    }
 
-import java.util.concurrent.CountDownLatch;
-
 //}
-public class test{
+
+class animal{
+    private int age=1;
+    String name="小动物";
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public animal(){}
+//    public animal(int age, String name) {
+//        this.age = age;
+//        this.name = name;
+//    }
+
+    void eat(){
+        System.out.println("animal is eating~");
+    }
+}
+
+class cat extends animal{
+
+    String voice;
+    String name="猫咪";
+//    public cat(int age, String name, String voice) {
+//        super(age, name);
+//
+//        this.voice = voice;
+//    }
+    public cat(){
+
+    }
+
+    void run(){
+        System.out.println("cat is running~");
+    }
+
+    @Override
+    void eat(){
+        System.out.println("cat is eating~");
+    }
+
+}
+//public class test{
 //    private int[] charArr = new int[128];
 //    Queue<Character> queue = new LinkedList<>();
 //    public void Insert(char ch)
@@ -178,7 +223,21 @@ public class test{
 //            med = (double)res.get(res.size()/2);
 //        return med;
 //    }
-    public static void main(String[] args) {
+//    public static void main(String[] args) {
+//
+//        animal a = new cat();
+//        a.eat();
+//        String s = a.name;
+//        System.out.println(s);
+//
+//        animal ss = new animal();
+//        ss.eat();
+//
+//        cat c = new cat();
+//        c.eat();
+//        System.out.println(c.getAge());
+//        c.setAge(2);
+//        System.out.println(c.getAge());
 
 //        int ans = 7;
 //        int now =8;
@@ -284,7 +343,7 @@ public class test{
 //        thread.start();
 //        System.out.println(isReachNode(35,38));
 
-    }
+//    }
 //    private static int isReachNode(int x,int y){
 //        int all = 0;
 //        String[] s_x = String.valueOf(x).split("");
@@ -320,7 +379,7 @@ public class test{
 //        }
 //        return flag;
 //    }
-}
+//}
 //class th1 extends Thread{
 //    private String name;
 //
@@ -360,3 +419,38 @@ public class test{
 //        return null;
 //    }
 //}
+
+class Father{
+    public void func1(){
+        func2();
+    }
+    //这是父类中的func2()方法，因为下面的子类中重写了该方法
+    //所以在父类类型的引用中调用时，这个方法将不再有效
+    //取而代之的是将调用子类中重写的func2()方法
+    public void func2(){
+        System.out.println("AAA");
+    }
+}
+
+class Child extends Father{
+    //func1(int i)是对func1()方法的一个重载，主要不是重写！
+    //由于在父类中没有定义这个方法，所以它不能被父类类型的引用调用
+    //所以在下面的main方法中child.func1(68)是不对的
+    public void func1(int i){
+        System.out.println("BBB");
+    }
+    //func2()重写了父类Father中的func2()方法
+    //如果父类类型的引用中调用了func2()方法，那么必然是子类中重写的这个方法
+    public void func2(){
+        System.out.println("CCC");
+    }
+}
+
+public class test {
+    public static void main(String[] args) {
+        Father child = new Child();
+        child.func1();//打印结果将会是什么？
+//        child.func1(68);
+        ((Child)child).func1(9);
+    }
+}
