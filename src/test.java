@@ -448,9 +448,10 @@ class Child extends Father{
 
 public class test {
     public static void main(String[] args) {
-        Father child = new Child();
-        child.func1();//打印结果将会是什么？
-//        child.func1(68);
-        ((Child)child).func1(9);
+//        Father child = new Child();
+//        child.func1();//打印结果将会是什么？
+////        child.func1(68);
+//        ((Child)child).func1(9);
+        System.out.println(Integer.MAX_VALUE);
     }
 }
