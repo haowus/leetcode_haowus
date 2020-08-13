@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="junit-4.12">
     <CLASSES>
-      <root url="jar://D:/chromedownload/jar_files/junit-4.12.jar!/" />
-      <root url="jar://D:/Program Files/Java/jdk1.8.0_251/jdbc/mysql-connector-java-8.0.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../ChromeDownload/jar_files/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Java/jdk1.8.0_251/jdbc/mysql-connector-java-8.0.16.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
