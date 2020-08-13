@@ -452,6 +452,26 @@ public class test {
 //        child.func1();//打印结果将会是什么？
 ////        child.func1(68);
 //        ((Child)child).func1(9);
-        System.out.println(Integer.MAX_VALUE);
+//        System.out.println(Integer.MAX_VALUE);
+//        Integer i = new Integer(100);
+//        Integer j = new Integer(100);
+//        System.out.print(i == j); //false
+
+//        String s1 = new String("wh");
+//        String s2 = new String("wh"); //new String出来的变量指向堆中的新建的对象
+//
+//        String s3="hh";
+//        String s4 = "hh";  //非new出来的变量指向常量池中的对象
+//        System.out.println(s3==s4);
+
+        Integer i = 100;   //Integer i = Integer.valueof(100) 对于-128~127之间的数 拿的是缓存
+        Integer j = 100;
+        System.out.println(i == j); //true
+
+        Integer k1 = 128;   //Integer i = Integer.valueof(100) 对于-128~127之外的数 走的是 new Integer(128)
+        Integer k2 = 128;
+        System.out.println(k1==k2); //false
+
+
     }
 }

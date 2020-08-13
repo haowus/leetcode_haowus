@@ -27,12 +27,7 @@ class container implements Comparable<container>{
         else if (this.sum<o.sum)
             return 1;
         else {
-            if ((this.i+this.j)<(o.i+o.j))
-                return -1;
-            if ((this.i+this.j)>(o.i+o.j))
-                return 1;
-            else
-                return 0;
+            return Integer.compare(this.i + this.j, o.i + o.j);
         }
 
     }
