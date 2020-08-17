@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03c781bf-43d7-4dd3-bfe9-dd1ea51c50e4" name="Default Changelist" comment="" />
+    <list default="true" id="03c781bf-43d7-4dd3-bfe9-dd1ea51c50e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sshConfigs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/guava-18.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TEST/Cache/guavaTest01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,11 +55,11 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/guava-18.0.jar" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
@@ -61,27 +68,17 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="algorithms.tree.test" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="leetcode_sf_offer" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="leetcode_sf_offer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GitWorkspace\leetcode_haowus\lib" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.nehy02">
-    <configuration name="conch01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other_for_job.conch.conch01" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="other_for_job.conch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.guavaTest01">
     <configuration name="conch02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="other_for_job.conch.conch02" />
       <module name="leetcode" />
@@ -121,6 +118,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="guavaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TEST.Cache.guavaTest01" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TEST.Cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="nehy02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="other_for_job.NetEase.nehy02" />
       <module name="leetcode" />
@@ -147,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.guavaTest01" />
         <item itemvalue="Application.nehy02" />
         <item itemvalue="Application.conch03" />
         <item itemvalue="Application.conch02" />
         <item itemvalue="Application.conch04" />
-        <item itemvalue="Application.conch01" />
       </list>
     </recent_temporary>
   </component>
@@ -213,13 +223,6 @@
       <workItem from="1595302016350" duration="7744000" />
       <workItem from="1595904043089" duration="11231000" />
       <workItem from="1596784869557" duration="64702000" />
-    </task>
-    <task id="LOCAL-00025" summary="1">
-      <created>1583326167628</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1583326167629</updated>
     </task>
     <task id="LOCAL-00026" summary="1">
       <created>1584794968317</created>
@@ -557,7 +560,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597237420154</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="1">
+      <created>1597292582044</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1597292582044</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TodoView">
@@ -601,62 +611,78 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597236259426" />
-    <state x="558" y="81" key="CommitChangelistDialog2" timestamp="1597237419409">
+    <state x="558" y="81" key="CommitChangelistDialog2" timestamp="1597292581374">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="558" y="81" key="CommitChangelistDialog2/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597237419409" />
-    <state width="1921" height="415" key="GridCell.Tab.0.bottom" timestamp="1597237206464">
+    <state x="558" y="81" key="CommitChangelistDialog2/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597292581374" />
+    <state x="380" y="376" key="FileChooserDialogImpl" timestamp="1597665836719">
       <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="380" y="376" key="FileChooserDialogImpl/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597665836719" />
+    <state x="2134" y="680" key="FileChooserDialogImpl/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597665175096" />
+    <state width="1081" height="273" key="GridCell.Tab.0.bottom" timestamp="1597668998338">
+      <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state width="1921" height="415" key="GridCell.Tab.0.bottom/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597237206464" />
-    <state width="1081" height="630" key="GridCell.Tab.0.bottom/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597234824612" />
-    <state width="1921" height="415" key="GridCell.Tab.0.center" timestamp="1597237206464">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1081" height="273" key="GridCell.Tab.0.bottom/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597668998338" />
+    <state width="1081" height="273" key="GridCell.Tab.0.center" timestamp="1597668998337">
+      <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state width="1921" height="415" key="GridCell.Tab.0.center/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597237206464" />
-    <state width="1081" height="630" key="GridCell.Tab.0.center/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597234824612" />
-    <state width="1921" height="415" key="GridCell.Tab.0.left" timestamp="1597237206463">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1081" height="273" key="GridCell.Tab.0.center/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597668998337" />
+    <state width="1081" height="273" key="GridCell.Tab.0.left" timestamp="1597668998337">
+      <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state width="1921" height="415" key="GridCell.Tab.0.left/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597237206463" />
-    <state width="1081" height="630" key="GridCell.Tab.0.left/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597234824612" />
-    <state width="1921" height="415" key="GridCell.Tab.0.right" timestamp="1597237206464">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1081" height="273" key="GridCell.Tab.0.left/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597668998337" />
+    <state width="1081" height="273" key="GridCell.Tab.0.right" timestamp="1597668998337">
+      <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state width="1921" height="415" key="GridCell.Tab.0.right/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597237206464" />
-    <state width="1081" height="630" key="GridCell.Tab.0.right/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597234824612" />
-    <state width="1081" height="630" key="GridCell.Tab.1.bottom" timestamp="1597234824612">
+    <state width="1081" height="273" key="GridCell.Tab.0.right/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597668998337" />
+    <state width="1081" height="630" key="GridCell.Tab.1.bottom" timestamp="1597668706321">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state width="1921" height="251" key="GridCell.Tab.1.bottom/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597234617860" />
-    <state width="1081" height="630" key="GridCell.Tab.1.bottom/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597234824612" />
-    <state width="1081" height="630" key="GridCell.Tab.1.center" timestamp="1597234824612">
+    <state width="1081" height="630" key="GridCell.Tab.1.bottom/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597668706321" />
+    <state width="1081" height="630" key="GridCell.Tab.1.center" timestamp="1597668706321">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state width="1921" height="251" key="GridCell.Tab.1.center/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597234617859" />
-    <state width="1081" height="630" key="GridCell.Tab.1.center/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597234824612" />
-    <state width="1081" height="630" key="GridCell.Tab.1.left" timestamp="1597234824612">
+    <state width="1081" height="630" key="GridCell.Tab.1.center/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597668706321" />
+    <state width="1081" height="630" key="GridCell.Tab.1.left" timestamp="1597668706321">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state width="1921" height="251" key="GridCell.Tab.1.left/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597234617859" />
-    <state width="1081" height="630" key="GridCell.Tab.1.left/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597234824612" />
-    <state width="1081" height="630" key="GridCell.Tab.1.right" timestamp="1597234824612">
+    <state width="1081" height="630" key="GridCell.Tab.1.left/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597668706321" />
+    <state width="1081" height="630" key="GridCell.Tab.1.right" timestamp="1597668706321">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state width="1921" height="251" key="GridCell.Tab.1.right/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597234617860" />
-    <state width="1081" height="630" key="GridCell.Tab.1.right/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597234824612" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597237426674">
+    <state width="1081" height="630" key="GridCell.Tab.1.right/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597668706321" />
+    <state x="595" y="280" key="MultipleFileMergeDialog" timestamp="1597292710040">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597237426674" />
-    <state x="2263" y="853" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597214543929">
+    <state x="595" y="280" key="MultipleFileMergeDialog/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597292710040" />
+    <state x="36" y="189" key="SettingsEditor" timestamp="1597665840406">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="36" y="189" key="SettingsEditor/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597665840406" />
+    <state x="1940" y="514" key="SettingsEditor/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597665196782" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597292721511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597292721511" />
+    <state x="2263" y="853" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597663212686">
       <screen x="1920" y="0" width="1080" height="1880" />
     </state>
-    <state x="2263" y="853" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597214543929" />
-    <state x="460" y="256" width="999" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1597234544928">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="610" y="472" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597292586855" />
+    <state x="2263" y="853" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597663212686" />
+    <state x="2179" y="463" width="577" height="1159" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1597668138782">
+      <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="460" y="256" width="999" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597234544928" />
+    <state x="2179" y="463" width="577" height="1159" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597668138782" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -695,94 +721,11 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="45" />
         </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.concurrent.ExecutionException" package="java.util.concurrent" />
+          <option name="timeStamp" value="48" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>bootstrap</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>leetcode</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>10</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
