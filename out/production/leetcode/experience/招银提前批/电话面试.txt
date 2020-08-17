@@ -1,0 +1,13 @@
+1: 了解泛型吗？说说泛型
+
+2: 了解数据库吗？平时用的是mysql还是oracle？mysql 查找表的前10行数据?
+   select * from tablename limit 0, 10;
+
+3: 了解索引吗？那你说说哪些列不适合做索引？
+
+4: hashmap不是线程安全的，hashtable是线程安全的，为什么用hashmap而不用hashtable？（说说异同，区别）
+
+5: 了解线程吗？现有A,B,C三个线程在等待，请问怎么保证他们按先入先出队列的顺序请求资源？
+
+6: 抽象类和接口的区别？
+   抽象类：public abstract        接口：public static final

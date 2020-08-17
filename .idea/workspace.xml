@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="03c781bf-43d7-4dd3-bfe9-dd1ea51c50e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/other_for_job/DJ/dj81601.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other_for_job/DJ/dj81603.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other_for_job/meituan/mt01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other_for_job/meituan/mt02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other_for_job/meituan/mt04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other_for_job/qianxin/qax01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other_for_job/qianxin/qax02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other_for_job/xiecheng/xc01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="03c781bf-43d7-4dd3-bfe9-dd1ea51c50e4" name="Default Changelist" comment="dj meituan" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -584,6 +592,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
@@ -615,10 +634,10 @@
     </state>
     <state x="599" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1504.963@0.0.1504.963" timestamp="1597580903846" />
     <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597236259426" />
-    <state x="347" y="45" key="CommitChangelistDialog2" timestamp="1597290071769">
+    <state x="347" y="45" key="CommitChangelistDialog2" timestamp="1597681951943">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state x="347" y="45" key="CommitChangelistDialog2/0.0.1504.963@0.0.1504.963" timestamp="1597290071769" />
+    <state x="347" y="45" key="CommitChangelistDialog2/0.0.1504.963@0.0.1504.963" timestamp="1597681951943" />
     <state x="533" y="237" key="FileChooserDialogImpl" timestamp="1597679092331">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
