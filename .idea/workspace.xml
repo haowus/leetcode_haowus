@@ -86,7 +86,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.dj81601">
+  <component name="RunManager" selected="Application.guavaTest01">
     <configuration name="dj81601" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="other_for_job.DJ.dj81601" />
       <module name="leetcode" />
@@ -113,34 +113,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="guavaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TEST.Cache.guavaTest01" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TEST.Cache.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="qax01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="other_for_job.qianxin.qax01" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="other_for_job.qianxin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="qax02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other_for_job.qianxin.qax02" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="other_for_job.qianxin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other_for_job.qianxin.test" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -165,13 +152,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="question_129Test.testsumNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algorithms.tree.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="algorithms.tree.test" />
+      <option name="MAIN_CLASS_NAME" value="algorithms.tree.test.question_129Test" />
+      <option name="METHOD_NAME" value="testsumNumbers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.guavaTest01" />
+        <item itemvalue="JUnit.question_129Test.testsumNumbers" />
         <item itemvalue="Application.dj81601" />
         <item itemvalue="Application.dj81603" />
         <item itemvalue="Application.qax01" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.qax02" />
       </list>
     </recent_temporary>
   </component>
