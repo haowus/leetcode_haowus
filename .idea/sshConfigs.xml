@@ -2,7 +2,7 @@
 <project version="4">
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="123.56.170.13" id="0e14c5ce-934a-4efc-bfdb-f910998dd895" port="22" customName="aliyun" nameFormat="CUSTOM">
+      <sshConfig authType="PASSWORD" host="123.56.170.13" id="a1e45bee-da36-44af-919d-8ff19a54bc25" port="22" customName="aliyun" nameFormat="CUSTOM" username="root">
         <option name="customName" value="aliyun" />
       </sshConfig>
     </configs>
