@@ -19,10 +19,19 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03c781bf-43d7-4dd3-bfe9-dd1ea51c50e4" name="Default Changelist" comment="dj meituan">
-      <change afterPath="$PROJECT_DIR$/src/other_for_job/yongyou/yy01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other_for_job/yongyou/yy02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other_for_job/yongyou/yy03.java" afterDir="false" />
+    <list default="true" id="03c781bf-43d7-4dd3-bfe9-dd1ea51c50e4" name="Default Changelist" comment="用友笔试">
+      <change afterPath="$PROJECT_DIR$/src/other_for_job/Three60/txz01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other_for_job/Three60/txz02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other_for_job/Three60/txz101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other_for_job/Three60/txz102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other_for_job/bytedance/cs01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other_for_job/meituan/mt082201.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other_for_job/meituan/mt082202.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other_for_job/meituan/mt082203.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other_for_job/youzan/yz01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other_for_job/youzan/yz02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_8_12_21_16_[Default_Changelist]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_8_12_21_16__Default_Changelist_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -91,13 +100,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.guavaTest01">
-    <configuration name="dj81601" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other_for_job.DJ.dj81601" />
+  <component name="RunManager" selected="Application.txz101">
+    <configuration name="cs01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other_for_job.bytedance.cs01" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other_for_job.DJ.*" />
+          <option name="PATTERN" value="other_for_job.bytedance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dj81603" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other_for_job.DJ.dj81603" />
+    <configuration name="mt082201" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other_for_job.meituan.mt082201" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other_for_job.DJ.*" />
+          <option name="PATTERN" value="other_for_job.meituan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="guavaTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TEST.Cache.guavaTest01" />
+    <configuration name="txz01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other_for_job.Three60.txz01" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TEST.Cache.*" />
+          <option name="PATTERN" value="other_for_job.Three60.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +140,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="qax01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other_for_job.qianxin.qax01" />
+    <configuration name="txz02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other_for_job.Three60.txz02" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other_for_job.qianxin.*" />
+          <option name="PATTERN" value="other_for_job.Three60.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="txz101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other_for_job.Three60.txz101" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="other_for_job.Three60.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,29 +179,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="question_129Test.testsumNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algorithms.tree.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="algorithms.tree.test" />
-      <option name="MAIN_CLASS_NAME" value="algorithms.tree.test.question_129Test" />
-      <option name="METHOD_NAME" value="testsumNumbers" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.guavaTest01" />
-        <item itemvalue="JUnit.question_129Test.testsumNumbers" />
-        <item itemvalue="Application.dj81601" />
-        <item itemvalue="Application.dj81603" />
-        <item itemvalue="Application.qax01" />
+        <item itemvalue="Application.txz101" />
+        <item itemvalue="Application.cs01" />
+        <item itemvalue="Application.mt082201" />
+        <item itemvalue="Application.txz02" />
+        <item itemvalue="Application.txz01" />
       </list>
     </recent_temporary>
   </component>
@@ -241,13 +247,6 @@
       <workItem from="1595302016350" duration="7744000" />
       <workItem from="1595904043089" duration="11231000" />
       <workItem from="1596784869557" duration="64702000" />
-    </task>
-    <task id="LOCAL-00029" summary="1">
-      <created>1588520488925</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1588520488926</updated>
     </task>
     <task id="LOCAL-00030" summary="1">
       <created>1588697738744</created>
@@ -585,7 +584,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597682617378</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="用友笔试">
+      <created>1597739605359</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1597739605359</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TodoView">
@@ -635,13 +641,14 @@
     <MESSAGE value="1" />
     <MESSAGE value="网易互娱第二题" />
     <MESSAGE value="dj meituan" />
-    <option name="LAST_COMMIT_MESSAGE" value="dj meituan" />
+    <MESSAGE value="用友笔试" />
+    <option name="LAST_COMMIT_MESSAGE" value="用友笔试" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="599" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1597580903846">
+    <state x="599" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1598085177599">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state x="599" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1504.963@0.0.1504.963" timestamp="1597580903846" />
+    <state x="599" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1504.963@0.0.1504.963" timestamp="1598085177599" />
     <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597236259426" />
     <state x="347" y="45" key="CommitChangelistDialog2" timestamp="1597681951943">
       <screen x="0" y="0" width="1504" height="963" />
@@ -651,52 +658,52 @@
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="533" y="237" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1597679092331" />
-    <state width="1461" height="333" key="GridCell.Tab.0.bottom" timestamp="1597682588669">
+    <state width="1461" height="206" key="GridCell.Tab.0.bottom" timestamp="1598240293365">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1461" height="333" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1597682588669" />
+    <state width="1461" height="206" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1598240293365" />
     <state width="1921" height="225" key="GridCell.Tab.0.bottom/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597236515569" />
     <state width="1081" height="630" key="GridCell.Tab.0.bottom/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597234824612" />
-    <state width="1461" height="333" key="GridCell.Tab.0.center" timestamp="1597682588669">
+    <state width="1461" height="206" key="GridCell.Tab.0.center" timestamp="1598240293365">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1461" height="333" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1597682588669" />
+    <state width="1461" height="206" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1598240293365" />
     <state width="1921" height="225" key="GridCell.Tab.0.center/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597236515569" />
     <state width="1081" height="630" key="GridCell.Tab.0.center/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597234824612" />
-    <state width="1461" height="333" key="GridCell.Tab.0.left" timestamp="1597682588669">
+    <state width="1461" height="206" key="GridCell.Tab.0.left" timestamp="1598240293365">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1461" height="333" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1597682588669" />
+    <state width="1461" height="206" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1598240293365" />
     <state width="1921" height="225" key="GridCell.Tab.0.left/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597236515569" />
     <state width="1081" height="630" key="GridCell.Tab.0.left/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597234824612" />
-    <state width="1461" height="333" key="GridCell.Tab.0.right" timestamp="1597682588669">
+    <state width="1461" height="206" key="GridCell.Tab.0.right" timestamp="1598240293365">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1461" height="333" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1597682588669" />
+    <state width="1461" height="206" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1598240293365" />
     <state width="1921" height="225" key="GridCell.Tab.0.right/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597236515569" />
     <state width="1081" height="630" key="GridCell.Tab.0.right/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597234824612" />
-    <state width="1461" height="327" key="GridCell.Tab.1.bottom" timestamp="1597582976146">
+    <state width="1461" height="327" key="GridCell.Tab.1.bottom" timestamp="1598153479383">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1461" height="327" key="GridCell.Tab.1.bottom/0.0.1504.963@0.0.1504.963" timestamp="1597582976146" />
+    <state width="1461" height="327" key="GridCell.Tab.1.bottom/0.0.1504.963@0.0.1504.963" timestamp="1598153479383" />
     <state width="1921" height="251" key="GridCell.Tab.1.bottom/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597234617860" />
     <state width="1081" height="630" key="GridCell.Tab.1.bottom/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597234824612" />
-    <state width="1461" height="327" key="GridCell.Tab.1.center" timestamp="1597582976146">
+    <state width="1461" height="327" key="GridCell.Tab.1.center" timestamp="1598153479382">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1461" height="327" key="GridCell.Tab.1.center/0.0.1504.963@0.0.1504.963" timestamp="1597582976146" />
+    <state width="1461" height="327" key="GridCell.Tab.1.center/0.0.1504.963@0.0.1504.963" timestamp="1598153479382" />
     <state width="1921" height="251" key="GridCell.Tab.1.center/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597234617859" />
     <state width="1081" height="630" key="GridCell.Tab.1.center/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597234824612" />
-    <state width="1461" height="327" key="GridCell.Tab.1.left" timestamp="1597582976146">
+    <state width="1461" height="327" key="GridCell.Tab.1.left" timestamp="1598153479382">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1461" height="327" key="GridCell.Tab.1.left/0.0.1504.963@0.0.1504.963" timestamp="1597582976146" />
+    <state width="1461" height="327" key="GridCell.Tab.1.left/0.0.1504.963@0.0.1504.963" timestamp="1598153479382" />
     <state width="1921" height="251" key="GridCell.Tab.1.left/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597234617859" />
     <state width="1081" height="630" key="GridCell.Tab.1.left/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597234824612" />
-    <state width="1461" height="327" key="GridCell.Tab.1.right" timestamp="1597582976146">
+    <state width="1461" height="327" key="GridCell.Tab.1.right" timestamp="1598153479382">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state width="1461" height="327" key="GridCell.Tab.1.right/0.0.1504.963@0.0.1504.963" timestamp="1597582976146" />
+    <state width="1461" height="327" key="GridCell.Tab.1.right/0.0.1504.963@0.0.1504.963" timestamp="1598153479382" />
     <state width="1921" height="251" key="GridCell.Tab.1.right/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597234617860" />
     <state width="1081" height="630" key="GridCell.Tab.1.right/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597234824612" />
     <state x="389" y="242" key="MultipleFileMergeDialog" timestamp="1597682472575">
@@ -711,10 +718,10 @@
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="523" y="197" key="VCS.ChangeListViewerDialog/0.0.1504.963@0.0.1504.963" timestamp="1597682431579" />
-    <state x="345" y="215" key="Vcs.Push.Dialog.v2" timestamp="1597682630009">
+    <state x="345" y="215" key="Vcs.Push.Dialog.v2" timestamp="1597739611546">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state x="345" y="215" key="Vcs.Push.Dialog.v2/0.0.1504.963@0.0.1504.963" timestamp="1597682630009" />
+    <state x="345" y="215" key="Vcs.Push.Dialog.v2/0.0.1504.963@0.0.1504.963" timestamp="1597739611546" />
     <state x="461" y="373" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1597682530019">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
@@ -728,10 +735,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="460" y="256" width="999" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597234544928" />
-    <state x="415" y="206" width="672" height="678" key="search.everywhere.popup" timestamp="1597737477141">
+    <state x="415" y="206" width="672" height="678" key="search.everywhere.popup" timestamp="1598088388891">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
-    <state x="415" y="206" width="672" height="678" key="search.everywhere.popup/0.0.1504.963@0.0.1504.963" timestamp="1597737477141" />
+    <state x="415" y="206" width="672" height="678" key="search.everywhere.popup/0.0.1504.963@0.0.1504.963" timestamp="1598088388891" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
