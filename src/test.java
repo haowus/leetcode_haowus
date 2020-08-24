@@ -464,13 +464,15 @@ public class test {
 //        String s4 = "hh";  //非new出来的变量指向常量池中的对象
 //        System.out.println(s3==s4);
 
-        Integer i = 100;   //Integer i = Integer.valueof(100) 对于-128~127之间的数 拿的是缓存
-        Integer j = 100;
-        System.out.println(i == j); //true
+//        Integer i = 100;   //Integer i = Integer.valueof(100) 对于-128~127之间的数 拿的是缓存
+//        Integer j = 100;
+//        System.out.println(i == j); //true
+//
+//        Integer k1 = 128;   //Integer i = Integer.valueof(100) 对于-128~127之外的数 走的是 new Integer(128)
+//        Integer k2 = 128;
+//        System.out.println(k1==k2); //false
 
-        Integer k1 = 128;   //Integer i = Integer.valueof(100) 对于-128~127之外的数 走的是 new Integer(128)
-        Integer k2 = 128;
-        System.out.println(k1==k2); //false
+        System.out.println(Integer.MAX_VALUE-1);
 
 
     }

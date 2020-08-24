@@ -3,11 +3,10 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="3ba6376f-dd13-4780-b684-bc64343cc9f0" name="aliyun" url="http://123.56.170.13">
-        <fileTransfer host="123.56.170.13" port="22" rootFolder="/usr" accessType="SFTP">
+        <fileTransfer rootFolder="/usr" accessType="SFTP" sshConfigId="0e14c5ce-934a-4efc-bfdb-f910998dd895" sshConfig="aliyun">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
