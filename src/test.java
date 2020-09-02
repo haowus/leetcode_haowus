@@ -447,7 +447,7 @@ class Child extends Father{
 }
 
 public class test {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws ClassNotFoundException {
 //        Father child = new Child();
 //        child.func1();//打印结果将会是什么？
 ////        child.func1(68);
@@ -472,8 +472,12 @@ public class test {
 //        Integer k2 = 128;
 //        System.out.println(k1==k2); //false
 
-        System.out.println(Integer.MAX_VALUE-1);
-
+//        System.out.println(Integer.MAX_VALUE-1);
+//        Integer z = Integer.valueOf(129);
+//        Integer k = Integer.valueOf(129);
+//        System.out.println(z == k);   // true
+        Class s = cat.class;  //获取到cat对应的Class实例
+        System.out.println(s);
 
     }
 }
