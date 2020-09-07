@@ -19,20 +19,28 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="03c781bf-43d7-4dd3-bfe9-dd1ea51c50e4" name="Default Changelist" comment="用友笔试">
-      <change afterPath="$PROJECT_DIR$/src/other_for_job/meituan/mt080901.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other_for_job/meituan/mt082902.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other_for_job/shence/lengthofLIS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other_for_job/shence/redbook01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/other_for_job/shence/sc01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_8_12_14_41__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_8_12_14_41__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_8_12_21_16__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_8_12_21_16__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_8_18_0_27__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_8_18_0_27__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_8_18_0_31__Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_8_18_0_31__Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_8_18_19_38_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020_8_18_19_38__Default_Changelist_.xml" beforeDir="false" />
+    <list default="true" id="03c781bf-43d7-4dd3-bfe9-dd1ea51c50e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/other_for_job/baidu/bdcg02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other_for_job/baidu/bdlc01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other_for_job/baidu/bdwz03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other_for_job/huawei/hw090203.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other_for_job/others/bililc02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/other_for_job/others/bililc03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode/other_for_job/Three60/txz102.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/other_for_job/Three60/txz102.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/Father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/sortingAlgorithm/shellSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/sortingAlgorithm/shellSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sortingAlgorithm/shellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sortingAlgorithm/shellSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,13 +114,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ali01">
-    <configuration name="ali01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other_for_job.alibaba.ali01" />
+  <component name="RunManager" selected="Application.bililc03">
+    <configuration name="bdcg02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other_for_job.baidu.bdcg02" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other_for_job.alibaba.*" />
+          <option name="PATTERN" value="other_for_job.baidu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lengthofLIS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other_for_job.shence.lengthofLIS" />
+    <configuration name="bdlc01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other_for_job.baidu.bdlc01" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other_for_job.shence.*" />
+          <option name="PATTERN" value="other_for_job.baidu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mt080901" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other_for_job.meituan.mt080901" />
+    <configuration name="bdwz03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other_for_job.baidu.bdwz03" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other_for_job.meituan.*" />
+          <option name="PATTERN" value="other_for_job.baidu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mt082902" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other_for_job.meituan.mt082902" />
+    <configuration name="bililc02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other_for_job.others.bililc02" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other_for_job.meituan.*" />
+          <option name="PATTERN" value="other_for_job.others.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="redbook01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other_for_job.shence.redbook01" />
+    <configuration name="bililc03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="other_for_job.others.bililc03" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other_for_job.shence.*" />
+          <option name="PATTERN" value="other_for_job.others.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ali01" />
-        <item itemvalue="Application.redbook01" />
-        <item itemvalue="Application.mt082902" />
-        <item itemvalue="Application.mt080901" />
-        <item itemvalue="Application.lengthofLIS" />
+        <item itemvalue="Application.bililc03" />
+        <item itemvalue="Application.bililc02" />
+        <item itemvalue="Application.bdcg02" />
+        <item itemvalue="Application.bdwz03" />
+        <item itemvalue="Application.bdlc01" />
       </list>
     </recent_temporary>
   </component>
@@ -252,14 +260,7 @@
       <workItem from="1595302016350" duration="7744000" />
       <workItem from="1595904043089" duration="11231000" />
       <workItem from="1596784869557" duration="64702000" />
-      <workItem from="1598282550383" duration="20732000" />
-    </task>
-    <task id="LOCAL-00030" summary="1">
-      <created>1588697738744</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1588697738744</updated>
+      <workItem from="1598282550383" duration="40091000" />
     </task>
     <task id="LOCAL-00031" summary="1">
       <created>1589352175735</created>
@@ -597,7 +598,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597739605359</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="1">
+      <created>1599029474386</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1599029474386</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TodoView">
@@ -645,50 +653,51 @@
     <MESSAGE value="0" />
     <MESSAGE value="2" />
     <MESSAGE value="讯飞提前批笔试" />
-    <MESSAGE value="1" />
     <MESSAGE value="网易互娱第二题" />
     <MESSAGE value="dj meituan" />
     <MESSAGE value="用友笔试" />
-    <option name="LAST_COMMIT_MESSAGE" value="用友笔试" />
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="599" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1598085177599">
-      <screen x="0" y="0" width="1504" height="963" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1599050023549">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="599" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1504.963@0.0.1504.963" timestamp="1598085177599" />
-    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1597236259426" />
-    <state x="347" y="45" key="CommitChangelistDialog2" timestamp="1597681951943">
-      <screen x="0" y="0" width="1504" height="963" />
+    <state x="765" y="225" key="#com.intellij.ide.util.MemberChooser/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1599050023549" />
+    <state x="2005" y="88" key="CommitChangelistDialog2" timestamp="1599029471182">
+      <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="347" y="45" key="CommitChangelistDialog2/0.0.1504.963@0.0.1504.963" timestamp="1597681951943" />
+    <state x="2005" y="88" key="CommitChangelistDialog2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1599029471182" />
     <state x="533" y="237" key="FileChooserDialogImpl" timestamp="1598282652620">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="533" y="237" key="FileChooserDialogImpl/0.0.1504.963@0.0.1504.963" timestamp="1598282652620" />
-    <state width="1921" height="267" key="GridCell.Tab.0.bottom" timestamp="1598960100279">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1081" height="324" key="GridCell.Tab.0.bottom" timestamp="1599222799599">
+      <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state width="1461" height="206" key="GridCell.Tab.0.bottom/0.0.1504.963@0.0.1504.963" timestamp="1598240293365" />
-    <state width="1921" height="267" key="GridCell.Tab.0.bottom/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1598960100279" />
-    <state width="1081" height="98" key="GridCell.Tab.0.bottom/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1598791121388" />
-    <state width="1921" height="267" key="GridCell.Tab.0.center" timestamp="1598960100279">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1921" height="235" key="GridCell.Tab.0.bottom/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1599220965506" />
+    <state width="1081" height="324" key="GridCell.Tab.0.bottom/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1599222799599" />
+    <state width="1081" height="324" key="GridCell.Tab.0.center" timestamp="1599222799598">
+      <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state width="1461" height="206" key="GridCell.Tab.0.center/0.0.1504.963@0.0.1504.963" timestamp="1598240293365" />
-    <state width="1921" height="267" key="GridCell.Tab.0.center/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1598960100279" />
-    <state width="1081" height="98" key="GridCell.Tab.0.center/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1598791121388" />
-    <state width="1921" height="267" key="GridCell.Tab.0.left" timestamp="1598960100279">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1921" height="235" key="GridCell.Tab.0.center/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1599220965506" />
+    <state width="1081" height="324" key="GridCell.Tab.0.center/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1599222799598" />
+    <state width="1081" height="324" key="GridCell.Tab.0.left" timestamp="1599222799598">
+      <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state width="1461" height="206" key="GridCell.Tab.0.left/0.0.1504.963@0.0.1504.963" timestamp="1598240293365" />
-    <state width="1921" height="267" key="GridCell.Tab.0.left/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1598960100279" />
-    <state width="1081" height="98" key="GridCell.Tab.0.left/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1598791121388" />
-    <state width="1921" height="267" key="GridCell.Tab.0.right" timestamp="1598960100279">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1921" height="235" key="GridCell.Tab.0.left/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1599220965506" />
+    <state width="1081" height="324" key="GridCell.Tab.0.left/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1599222799598" />
+    <state width="1081" height="324" key="GridCell.Tab.0.right" timestamp="1599222799599">
+      <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state width="1461" height="206" key="GridCell.Tab.0.right/0.0.1504.963@0.0.1504.963" timestamp="1598240293365" />
-    <state width="1921" height="267" key="GridCell.Tab.0.right/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1598960100279" />
-    <state width="1081" height="98" key="GridCell.Tab.0.right/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1598791121388" />
+    <state width="1921" height="235" key="GridCell.Tab.0.right/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1599220965506" />
+    <state width="1081" height="324" key="GridCell.Tab.0.right/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1599222799599" />
     <state width="1921" height="356" key="GridCell.Tab.1.bottom" timestamp="1598689223504">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -713,10 +722,11 @@
     <state width="1461" height="327" key="GridCell.Tab.1.right/0.0.1504.963@0.0.1504.963" timestamp="1598153479382" />
     <state width="1921" height="356" key="GridCell.Tab.1.right/1920.0.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1598689223504" />
     <state width="1081" height="692" key="GridCell.Tab.1.right/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1598436809239" />
-    <state x="389" y="242" key="MultipleFileMergeDialog" timestamp="1597682472575">
-      <screen x="0" y="0" width="1504" height="963" />
+    <state x="2199" y="472" key="MultipleFileMergeDialog" timestamp="1599029532731">
+      <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="389" y="242" key="MultipleFileMergeDialog/0.0.1504.963@0.0.1504.963" timestamp="1597682472575" />
+    <state x="2199" y="472" key="MultipleFileMergeDialog/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1599029532731" />
     <state x="497" y="183" key="RollbackChangesDialog" timestamp="1597682079481">
       <screen x="0" y="0" width="1504" height="963" />
     </state>
@@ -733,11 +743,11 @@
       <screen x="0" y="0" width="1504" height="963" />
     </state>
     <state x="461" y="373" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1504.963@0.0.1504.963" timestamp="1597682530019" />
-    <state x="478" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597682702398">
-      <screen x="0" y="0" width="1504" height="963" />
+    <state x="2263" y="853" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599029480899">
+      <screen x="1920" y="0" width="1080" height="1880" />
     </state>
     <state x="478" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1504.963@0.0.1504.963" timestamp="1597682702398" />
-    <state x="2263" y="853" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1597214543929" />
+    <state x="2263" y="853" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.0.1080.1880/0.0.1920.1040@1920.0.1080.1880" timestamp="1599029480899" />
     <state x="460" y="256" width="999" height="641" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1597234544928">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
