@@ -8,7 +8,7 @@ package sortingAlgorithm;
 public class shellSort {
 
     public static void main(String[] args) {
-        int[] arr = {2,4,5,1,3,7,6,14,12,9,10,8,13,11,15};
+        int[] arr = {24,11,41,9,7,2,32};
         sort(arr);
         for (int value : arr) {
             System.out.print(value+" ");
